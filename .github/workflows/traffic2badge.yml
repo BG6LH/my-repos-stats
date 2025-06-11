@@ -20,7 +20,12 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            return github.event.head_commit?.message || new Date().toISOString();
+            var message = `${process.env.FULL_COMMIT_MESSAGE}`;
+            core.info(message);
+            if (message != '') return message;
+            var time = new Date(Date.now()).toISOString();
+            core.info(time);
+            return `Get traffic data at ${time}`;
 
       # 3. 调用 traffic-to-badge Action
       - name: Generate traffic badges
