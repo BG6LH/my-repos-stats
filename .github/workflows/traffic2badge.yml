@@ -1,0 +1,67 @@
+name: traffic2badge
+
+on:
+  # 每天 UTC 01:00 定时拉取
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:   # 支持手动触发
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 拉取仓库代码
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. 生成用于 commit 的信息
+      - name: Get commit message
+        id: message
+        uses: actions/github-script@v6
+        with:
+          script: |
+            return github.event.head_commit?.message || new Date().toISOString();
+
+      # 3. 调用 traffic-to-badge Action
+      - name: Generate traffic badges
+        id: traffic
+        uses: yi-Xu-0100/traffic-to-badge@v1.4.0
+        with:
+          my_token: ${{ secrets.TRAFFIC_TOKEN }}
+          # 用逗号分隔列出所有要统计的仓库
+          static_list: |
+            BG6LH/FT-81x-BT-DIGI-Adaptor,
+            BG6LH/qrz-bio-page,
+            BG6LH/bg6lh.github.io,
+            BG6LH/lv-style-pattern-background-by-social-media-icons,
+            BG6LH/Flash-Card-Math-Quiz,
+            BG6LH/Antenna-Entrance-Panel-PCB
+          traffic_branch: traffic
+          # badge 颜色可按需调整，默认 brightgreen
+          views_color: brightgreen
+          clones_color: brightgreen
+          views_week_color: brightgreen
+          clones_week_color: brightgreen
+          total_views_color: brightgreen
+          total_clones_color: brightgreen
+          total_views_week_color: brightgreen
+          total_clones_week_color: brightgreen
+          logo: github
+          year: 2021
+
+      # 4. 将生成的 badge 推送到 traffic 分支
+      - name: Deploy badges to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.TRAFFIC_TOKEN }}
+          publish_branch: ${{ steps.traffic.outputs.traffic_branch }}
+          publish_dir: ${{ steps.traffic.outputs.traffic_path }}
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: ${{ steps.message.outputs.result }}
+
+      # 5. 可选：打印输出路径，便于调试
+      - name: Debug output
+        run: |
+          echo "Badge branch: ${{ steps.traffic.outputs.traffic_branch }}"
+          echo "Badge path:   ${{ steps.traffic.outputs.traffic_path }}"
