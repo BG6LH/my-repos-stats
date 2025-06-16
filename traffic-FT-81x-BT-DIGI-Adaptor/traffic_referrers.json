@@ -12,11 +12,11 @@
   {
     "referrer": "radioscanner.ru",
     "count": 13,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "qrper.com",
-    "count": 5,
+    "count": 7,
     "uniques": 4
   },
   {
@@ -25,13 +25,13 @@
     "uniques": 2
   },
   {
-    "referrer": "qrp.ru",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "com.google.android.gm",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "qrp.ru",
+    "count": 1,
     "uniques": 1
   },
   {
