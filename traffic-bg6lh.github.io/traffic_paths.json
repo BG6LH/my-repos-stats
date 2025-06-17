@@ -1,19 +1,43 @@
 [
   {
-    "path": "/BG6LH/bg6lh.github.io",
-    "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 12,
+    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
+    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
+    "count": 27,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
-    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
-    "count": 10,
+    "path": "/BG6LH/bg6lh.github.io",
+    "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
+    "count": 14,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/blob/main/js/lotwDxcc.json",
+    "title": "bg6lh.github.io/js/lotwDxcc.json at main · BG6LH/bg6lh.github.io",
+    "count": 13,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/main",
+    "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/main/dxcc-data",
+    "title": "bg6lh.github.io/dxcc-data at main · BG6LH/bg6lh.github.io",
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/bG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/blob/main/js/lotw-updater.js",
+    "title": "bg6lh.github.io/js/lotw-updater.js at main · BG6LH/bg6lh.github.io",
     "count": 1,
     "uniques": 1
   },
@@ -26,6 +50,12 @@
   {
     "path": "/BG6LH/bg6lh.github.io/issues",
     "title": "GitHub · Where software is built",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/delete/main/dxcc-data",
+    "title": "Deleting BG6LH/bg6lh.github.io at main",
     "count": 1,
     "uniques": 1
   }
