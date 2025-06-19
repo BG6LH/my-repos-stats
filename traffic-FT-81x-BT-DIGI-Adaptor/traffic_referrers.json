@@ -12,7 +12,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 12,
-    "uniques": 5
+    "uniques": 4
   },
   {
     "referrer": "qrper.com",
@@ -26,6 +26,11 @@
   },
   {
     "referrer": "com.google.android.gm",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "thingiverse.com",
     "count": 2,
     "uniques": 1
   },
