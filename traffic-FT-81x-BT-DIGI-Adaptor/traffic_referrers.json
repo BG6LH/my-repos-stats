@@ -6,13 +6,18 @@
   },
   {
     "referrer": "github.com",
-    "count": 23,
-    "uniques": 1
+    "count": 24,
+    "uniques": 2
   },
   {
     "referrer": "radioscanner.ru",
     "count": 12,
     "uniques": 4
+  },
+  {
+    "referrer": "thingiverse.com",
+    "count": 12,
+    "uniques": 2
   },
   {
     "referrer": "qrper.com",
@@ -30,17 +35,17 @@
     "uniques": 1
   },
   {
-    "referrer": "thingiverse.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
     "referrer": "Yahoo",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "qrper-com.translate.goog",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "l.facebook.com",
     "count": 1,
     "uniques": 1
   }
