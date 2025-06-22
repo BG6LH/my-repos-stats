@@ -14,7 +14,7 @@
   {
     "path": "/BG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 15,
+    "count": 17,
     "uniques": 1
   },
   {
@@ -42,6 +42,12 @@
     "uniques": 1
   },
   {
+    "path": "/BG6LH/bg6lh.github.io/discussions",
+    "title": "BG6LH/bg6lh.github.io · Discussions · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
     "path": "/BG6LH/bg6lh.github.io/discussions/new",
     "title": "New Discussion · BG6LH/bg6lh.github.io",
     "count": 1,
@@ -50,12 +56,6 @@
   {
     "path": "/BG6LH/bg6lh.github.io/issues",
     "title": "GitHub · Where software is built",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/bg6lh.github.io/tree/delete/main/dxcc-data",
-    "title": "Deleting BG6LH/bg6lh.github.io at main",
     "count": 1,
     "uniques": 1
   }

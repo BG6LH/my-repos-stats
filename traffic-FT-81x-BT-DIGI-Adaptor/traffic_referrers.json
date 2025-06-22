@@ -12,7 +12,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 12,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "referrer": "thingiverse.com",
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "cn.bing.com",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "groups.io",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "Yahoo",
-    "count": 1,
+    "referrer": "Bing",
+    "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "pe4bas.blogspot.com",
+    "referrer": "Yahoo",
     "count": 1,
     "uniques": 1
   }
