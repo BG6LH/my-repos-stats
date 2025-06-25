@@ -2,31 +2,37 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "GitHub – BG6LH/FT-81x-BT-DIGI-Adaptor: Ein PCB-Design eines Bluetooth-DIGI-Ad...",
-    "count": 44,
+    "count": 38,
     "uniques": 25
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
-    "count": 16,
+    "count": 17,
     "uniques": 10
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
     "title": "FT-81x-BT-DIGI-Adaptor/README.zh-CN.md at main · BG6LH/FT-81x-BT-DIGI-Adaptor...",
-    "count": 13,
+    "count": 11,
     "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
     "title": "FT-81x-BT-DIGI-Adaptor/README.md at main · BG6LH/FT-81x-BT-DIGI-Adaptor · Git...",
-    "count": 8,
+    "count": 11,
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "title": "FT-81x-BT-DIGI-Adaptor/pics/FT-81x-BT-DIGI-Adaptor-SCH.png at main · BG6LH/FT...",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
+    "title": "FT-81x-BT-DIGI-Adaptor/pics at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
     "count": 5,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "title": "FT-81x-BT-DIGI-Adaptor/FT-81x-BT-DIGI-Adaptor-SCH.pdf at main · BG6LH/FT-81x-...",
+    "count": 3,
     "uniques": 3
   },
   {
@@ -42,8 +48,8 @@
     "uniques": 3
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
-    "title": "FT-81x-BT-DIGI-Adaptor/pics at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
+    "title": "FT-81x-BT-DIGI-Adaptor/pics/FT-81x-BT-DIGI-Adaptor-SCH.png at main · BG6LH/FT...",
     "count": 3,
     "uniques": 3
   },
@@ -51,12 +57,6 @@
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
     "title": "FT-81x-BT-DIGI-Adaptor/Gerber at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
     "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "title": "FT-81x-BT-DIGI-Adaptor/FT-81x-BT-DIGI-Adaptor-SCH.pdf at main · BG6LH/FT-81x-...",
-    "count": 2,
     "uniques": 2
   }
 ]

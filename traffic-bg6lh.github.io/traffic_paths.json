@@ -2,19 +2,31 @@
   {
     "path": "/BG6LH/bg6lh.github.io/tree/main/js",
     "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
-    "count": 30,
+    "count": 44,
     "uniques": 1
   },
   {
     "path": "/BG6LH/bg6lh.github.io/blob/main/js/lotwDxcc.json",
     "title": "bg6lh.github.io/js/lotwDxcc.json at main · BG6LH/bg6lh.github.io",
-    "count": 23,
+    "count": 24,
     "uniques": 1
   },
   {
     "path": "/BG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 16,
+    "count": 22,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/main/zh-CN",
+    "title": "bg6lh.github.io/zh-CN at main · BG6LH/bg6lh.github.io",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/main/zh-CN/blog",
+    "title": "bg6lh.github.io/zh-CN/blog at main · BG6LH/bg6lh.github.io",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -32,7 +44,7 @@
   {
     "path": "/bG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -42,20 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/bg6lh.github.io/discussions",
-    "title": "BG6LH/bg6lh.github.io · Discussions · GitHub",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/zh-CN",
-    "title": "bg6lh.github.io/zh-CN at main · BG6LH/bg6lh.github.io",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/zh-CN/blog",
-    "title": "bg6lh.github.io/zh-CN/blog at main · BG6LH/bg6lh.github.io",
+    "path": "/BG6LH/bg6lh.github.io/branches",
+    "title": "Branches · BG6LH/bg6lh.github.io",
     "count": 2,
     "uniques": 1
   }
