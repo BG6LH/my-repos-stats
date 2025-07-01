@@ -2,37 +2,13 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "BG6LH/qrz-bio-page: A QRZ.com Biography Page iframe Simulator, helping code a...",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
     "title": "qrz-bio-page/bio.simulator.html at main · BG6LH/qrz-bio-page",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/graphs/code-frequency",
-    "title": "Code frequency · BG6LH/qrz-bio-page",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/graphs/traffic",
-    "title": "Traffic · BG6LH/qrz-bio-page",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/actions/metrics/performance",
-    "title": "Actions Performance Metrics",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/actions/metrics/usage",
-    "title": "Actions Usage Metrics",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -44,18 +20,6 @@
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.inject.js",
     "title": "qrz-bio-page/bio.snippet.inject.js at main · BG6LH/qrz-bio-page",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/community",
-    "title": "Community Standards",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/forks",
-    "title": "Forks · BG6LH/qrz-bio-page",
     "count": 1,
     "uniques": 1
   }

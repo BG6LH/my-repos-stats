@@ -2,13 +2,13 @@
   {
     "path": "/BG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 19,
+    "count": 18,
     "uniques": 1
   },
   {
     "path": "/BG6LH/bg6lh.github.io/tree/main/js",
     "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
-    "count": 19,
+    "count": 17,
     "uniques": 1
   },
   {
@@ -36,12 +36,6 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/bg6lh.github.io/blob/main/js/lotwDxcc.json",
-    "title": "bg6lh.github.io/js/lotwDxcc.json at main · BG6LH/bg6lh.github.io",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "path": "/BG6LH/bg6lh.github.io/tree/main/googlefe0bda6231202470",
     "title": "bg6lh.github.io/googlefe0bda6231202470 at main · BG6LH/bg6lh.github.io",
     "count": 3,
@@ -56,6 +50,12 @@
   {
     "path": "/BG6LH/bg6lh.github.io/actions/metrics/performance",
     "title": "Actions Performance Metrics",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/actions/runs/15802425045/job/44542514663",
+    "title": "pages build and deployment · BG6LH/bg6lh.github.io@b43069f",
     "count": 2,
     "uniques": 1
   }
