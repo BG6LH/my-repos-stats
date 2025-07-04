@@ -10,14 +10,14 @@
     "uniques": 1
   },
   {
+    "referrer": "radioscanner.ru",
+    "count": 12,
+    "uniques": 3
+  },
+  {
     "referrer": "Google",
     "count": 11,
     "uniques": 4
-  },
-  {
-    "referrer": "radioscanner.ru",
-    "count": 11,
-    "uniques": 3
   },
   {
     "referrer": "qrz.com",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 3,
-    "uniques": 3
+    "count": 4,
+    "uniques": 4
   },
   {
     "referrer": "github.com",
@@ -46,7 +46,7 @@
   },
   {
     "referrer": "Bing",
-    "count": 3,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   }
 ]
