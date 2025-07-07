@@ -1,14 +1,8 @@
 [
   {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
-    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
-    "count": 16,
-    "uniques": 1
-  },
-  {
     "path": "/BG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 12,
+    "count": 7,
     "uniques": 1
   },
   {
@@ -24,15 +18,9 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/zh-CN",
-    "title": "bg6lh.github.io/zh-CN at main · BG6LH/bg6lh.github.io",
-    "count": 4,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/zh-CN/blog",
-    "title": "bg6lh.github.io/zh-CN/blog at main · BG6LH/bg6lh.github.io",
-    "count": 4,
+    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
+    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
+    "count": 5,
     "uniques": 1
   },
   {
@@ -54,9 +42,21 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/bg6lh.github.io/branches",
-    "title": "Branches · BG6LH/bg6lh.github.io",
+    "path": "/BG6LH/bg6lh.github.io/graphs/contributors",
+    "title": "Contributors to BG6LH/bg6lh.github.io",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/delete/main/googlefe0bda6231202470",
+    "title": "Deleting BG6LH/bg6lh.github.io at main",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/actions",
+    "title": "Workflow runs · BG6LH/bg6lh.github.io",
+    "count": 1,
     "uniques": 1
   }
 ]
