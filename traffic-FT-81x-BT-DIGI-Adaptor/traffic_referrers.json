@@ -15,14 +15,19 @@
     "uniques": 3
   },
   {
+    "referrer": "groups.io",
+    "count": 12,
+    "uniques": 2
+  },
+  {
     "referrer": "qrz.com",
     "count": 11,
     "uniques": 1
   },
   {
     "referrer": "Google",
-    "count": 7,
-    "uniques": 1
+    "count": 8,
+    "uniques": 2
   },
   {
     "referrer": "thingiverse.com",
@@ -40,13 +45,8 @@
     "uniques": 3
   },
   {
-    "referrer": "groups.io",
+    "referrer": "qrp.ru",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "away.vk.com",
-    "count": 1,
-    "uniques": 1
+    "uniques": 2
   }
 ]

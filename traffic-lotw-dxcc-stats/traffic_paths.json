@@ -1,20 +1,44 @@
 [
   {
     "path": "/BG6LH/lotw-dxcc-stats",
-    "title": "BG6LH/lotw-dxcc-stats",
-    "count": 52,
-    "uniques": 9
+    "title": "GitHub - BG6LH/lotw-dxcc-stats",
+    "count": 84,
+    "uniques": 17
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 7,
+    "count": 12,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/blob/main/README.zh-CN.md",
     "title": "lotw-dxcc-stats/README.zh-CN.md at main · BG6LH/lotw-dxcc-stats",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
+    "title": "Traffic · BG6LH/lotw-dxcc-stats",
+    "count": 6,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/graphs/contributors",
+    "title": "Contributors to BG6LH/lotw-dxcc-stats",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/actions",
+    "title": "Workflow runs · BG6LH/lotw-dxcc-stats",
+    "count": 4,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/blob/main/package-lock.json",
+    "title": "lotw-dxcc-stats/package-lock.json at main · BG6LH/lotw-dxcc-stats",
+    "count": 3,
     "uniques": 1
   },
   {
@@ -24,38 +48,14 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/contributors",
-    "title": "Contributors to BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/wiki",
+    "title": "GitHub · Where software is built",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/actions",
-    "title": "Workflow runs · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/edit/main/README.md",
-    "title": "Editing lotw-dxcc-stats/README.md at main · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
-    "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/pulse/monthly",
-    "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/tree/main",
-    "title": "BG6LH/lotw-dxcc-stats at main",
+    "path": "/BG6LH/lotw-dxcc-stats/blob/main/.gitignore",
+    "title": "lotw-dxcc-stats/.gitignore at main · BG6LH/lotw-dxcc-stats",
     "count": 2,
     "uniques": 1
   }
