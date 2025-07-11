@@ -2,19 +2,19 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "GitHub - BG6LH/lotw-dxcc-stats",
-    "count": 96,
+    "count": 105,
     "uniques": 19
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
     "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 15,
+    "count": 16,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 15,
+    "count": 16,
     "uniques": 1
   },
   {
@@ -36,14 +36,20 @@
     "uniques": 1
   },
   {
+    "path": "/BG6LH/lotw-dxcc-stats/branches",
+    "title": "Branches · BG6LH/lotw-dxcc-stats",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/BG6LH/lotw-dxcc-stats/blob/main/package-lock.json",
     "title": "lotw-dxcc-stats/package-lock.json at main · BG6LH/lotw-dxcc-stats",
     "count": 3,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/branches",
-    "title": "Branches · BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/forks",
+    "title": "Forks · BG6LH/lotw-dxcc-stats",
     "count": 3,
     "uniques": 1
   },
@@ -51,12 +57,6 @@
     "path": "/BG6LH/lotw-dxcc-stats/wiki",
     "title": "GitHub · Where software is built",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/blob/main/.gitignore",
-    "title": "lotw-dxcc-stats/.gitignore at main · BG6LH/lotw-dxcc-stats",
-    "count": 2,
     "uniques": 1
   }
 ]
