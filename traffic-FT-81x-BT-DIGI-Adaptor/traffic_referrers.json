@@ -11,8 +11,8 @@
   },
   {
     "referrer": "groups.io",
-    "count": 12,
-    "uniques": 2
+    "count": 15,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
@@ -28,6 +28,11 @@
     "referrer": "away.vk.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "chatgpt.com",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "Google",
