@@ -2,13 +2,7 @@
   {
     "path": "/BG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 7,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
-    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
-    "count": 7,
+    "count": 6,
     "uniques": 1
   },
   {
@@ -18,21 +12,21 @@
     "uniques": 1
   },
   {
+    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
+    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
+    "count": 4,
+    "uniques": 1
+  },
+  {
     "path": "/bG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 3,
+    "count": 2,
     "uniques": 1
   },
   {
     "path": "/BG6LH/bg6lh.github.io/blob/main/js/lotwDxcc.json",
     "title": "bg6lh.github.io/js/lotwDxcc.json at main · BG6LH/bg6lh.github.io",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/bg6lh.github.io/commit/b6e445f3252a220c8e037ad2f313e32736c17fd4",
-    "title": "Update DXCC data from BG6LH/dxcc-badges@ed7da7ae5b7d125657466b79774dc… · BG6L...",
-    "count": 1,
     "uniques": 1
   }
 ]
