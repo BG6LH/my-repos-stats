@@ -1,43 +1,25 @@
 [
   {
     "path": "/BG6LH/lotw-dxcc-stats",
-    "title": "GitHub - BG6LH/lotw-dxcc-stats",
-    "count": 62,
-    "uniques": 11
+    "title": "BG6LH/lotw-dxcc-stats",
+    "count": 30,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
     "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 16,
+    "count": 12,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 10,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/blob/main/package-lock.json",
-    "title": "lotw-dxcc-stats/package-lock.json at main · BG6LH/lotw-dxcc-stats",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/actions",
-    "title": "Workflow runs · BG6LH/lotw-dxcc-stats",
-    "count": 2,
+    "count": 5,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/blob/main/lotw-dxcc-stats.config.js",
     "title": "lotw-dxcc-stats/lotw-dxcc-stats.config.js at main · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/commits",
-    "title": "Commits · BG6LH/lotw-dxcc-stats · GitHub",
     "count": 2,
     "uniques": 1
   },
@@ -48,15 +30,33 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/contributors",
-    "title": "Contributors to BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/new/main",
+    "title": "New File at / · BG6LH/lotw-dxcc-stats",
     "count": 2,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/new/main",
-    "title": "New File at / · BG6LH/lotw-dxcc-stats",
-    "count": 2,
+    "path": "/BG6LH/lotw-dxcc-stats/blob/stats/lotwQso.adif",
+    "title": "File not found",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/branches",
+    "title": "Branches · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/releases/new",
+    "title": "New release · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/releases/tag/v0.1.1",
+    "title": "Release v0.1.1 - QSL Incremental Update Fixes · BG6LH/lotw-dxcc-stats",
+    "count": 1,
     "uniques": 1
   }
 ]

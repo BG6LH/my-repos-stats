@@ -1,11 +1,5 @@
 [
   {
-    "path": "/BG6LH/bg6lh.github.io",
-    "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
-    "count": 6,
-    "uniques": 1
-  },
-  {
     "path": "/BG6LH/bg6lh.github.io/actions",
     "title": "Workflow runs · BG6LH/bg6lh.github.io",
     "count": 6,
@@ -19,6 +13,12 @@
   },
   {
     "path": "/bG6LH/bg6lh.github.io",
+    "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io",
     "title": "BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
     "count": 2,
     "uniques": 1
