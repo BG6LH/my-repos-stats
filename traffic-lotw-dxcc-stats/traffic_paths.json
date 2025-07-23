@@ -2,18 +2,12 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "BG6LH/lotw-dxcc-stats",
-    "count": 18,
+    "count": 9,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
     "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/pulse",
-    "title": "Pulse · BG6LH/lotw-dxcc-stats",
     "count": 2,
     "uniques": 1
   },
@@ -24,20 +18,14 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/branches",
-    "title": "Branches · BG6LH/lotw-dxcc-stats",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/forks",
-    "title": "Forks · BG6LH/lotw-dxcc-stats",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/BG6LH/lotw-dxcc-stats/new/main",
     "title": "New File at / · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/pulse",
+    "title": "Pulse · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   },
