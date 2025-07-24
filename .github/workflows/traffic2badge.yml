@@ -36,6 +36,7 @@ jobs:
           # 用逗号分隔列出所有要统计的仓库
           static_list: |
             BG6LH/FT-81x-BT-DIGI-Adaptor,
+            BG6LH/dxcc-json,
             BG6LH/lotw-dxcc-stats,
             BG6LH/qrz-bio-page,
             BG6LH/bg6lh.github.io,
