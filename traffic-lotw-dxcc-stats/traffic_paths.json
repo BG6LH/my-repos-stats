@@ -2,36 +2,42 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "BG6LH/lotw-dxcc-stats",
-    "count": 9,
+    "count": 8,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
     "title": "Traffic · BG6LH/lotw-dxcc-stats",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/forks",
+    "title": "Forks · BG6LH/lotw-dxcc-stats",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/blob/stats/lotwQso.adif",
-    "title": "File not found",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/new/main",
-    "title": "New File at / · BG6LH/lotw-dxcc-stats",
-    "count": 1,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/graphs/code-frequency",
+    "title": "Code frequency · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/tree/main/.github",
-    "title": "lotw-dxcc-stats/.github at main · BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/graphs/commit-activity",
+    "title": "Commit Activity · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/network",
+    "title": "Network Graph · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   }
