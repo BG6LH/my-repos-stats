@@ -64,6 +64,36 @@
 [![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-FT-81x-BT-DIGI-Adaptor/clones_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-FT-81x-BT-DIGI-Adaptor)
 ```
 
+## 📚 [dxcc-json](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-dxcc-json)
+
+### 📷 Badges without link of [dxcc-json](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-dxcc-json)
+
+![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views.svg)
+![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones.svg)
+![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views.svg)
+![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones.svg)
+![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [dxcc-json](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-dxcc-json)
+
+[![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+[![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+[![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+[![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+
+```markdown
+[![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+[![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/views_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+[![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+[![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-dxcc-json/clones_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-dxcc-json)
+```
+
 ## 📚 [lotw-dxcc-stats](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-lotw-dxcc-stats)
 
 ### 📷 Badges without link of [lotw-dxcc-stats](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-lotw-dxcc-stats)
