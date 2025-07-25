@@ -6,8 +6,8 @@
   },
   {
     "referrer": "Google",
-    "count": 17,
-    "uniques": 4
+    "count": 19,
+    "uniques": 5
   },
   {
     "referrer": "qrp.ru",
@@ -17,7 +17,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 8,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "pe4bas.blogspot.com",
@@ -35,17 +35,17 @@
     "uniques": 1
   },
   {
-    "referrer": "thingiverse.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "referrer": "chatgpt.com",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "qrper.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "thingiverse.com",
     "count": 1,
     "uniques": 1
   }

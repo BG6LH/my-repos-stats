@@ -8,8 +8,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
-    "count": 13,
-    "uniques": 5
+    "count": 11,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
@@ -20,7 +20,7 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
     "title": "FT-81x-BT-DIGI-Adaptor/README.zh-CN.md at main · BG6LH/FT-81x-BT-DIGI-Adaptor...",
-    "count": 9,
+    "count": 7,
     "uniques": 4
   },
   {
@@ -48,15 +48,15 @@
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/.github",
-    "title": "FT-81x-BT-DIGI-Adaptor/.github at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/discussions",
     "title": "BG6LH/FT-81x-BT-DIGI-Adaptor · Discussions · GitHub",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/library/Library.pretty/MD-6Pin_Reverse.kicad_mod",
+    "title": "FT-81x-BT-DIGI-Adaptor/library/Library.pretty/MD-6Pin_Reverse.kicad_mod at ma...",
+    "count": 1,
     "uniques": 1
   }
 ]
