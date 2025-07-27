@@ -2,25 +2,25 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "BG6LH/lotw-dxcc-stats",
-    "count": 6,
+    "count": 11,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
     "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 3,
+    "count": 4,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/forks",
     "title": "Forks · BG6LH/lotw-dxcc-stats",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 2,
+    "count": 3,
     "uniques": 1
   },
   {
@@ -50,6 +50,12 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats/network",
     "title": "Network Graph · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/pulse/monthly",
+    "title": "Pulse · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   }
