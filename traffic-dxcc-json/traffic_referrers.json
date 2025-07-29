@@ -8,5 +8,10 @@
     "referrer": "groups.arrl.org",
     "count": 7,
     "uniques": 5
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 1
   }
 ]
