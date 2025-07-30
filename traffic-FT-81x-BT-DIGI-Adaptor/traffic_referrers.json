@@ -1,12 +1,12 @@
 [
   {
     "referrer": "groups.io",
-    "count": 15,
+    "count": 10,
     "uniques": 3
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 9,
+    "count": 8,
     "uniques": 4
   },
   {
@@ -28,11 +28,6 @@
     "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "qrz9.ru",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "pe4bas.blogspot.com",
