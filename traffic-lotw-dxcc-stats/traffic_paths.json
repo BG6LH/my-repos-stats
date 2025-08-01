@@ -2,14 +2,8 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "GitHub - BG6LH/lotw-dxcc-stats",
-    "count": 13,
+    "count": 12,
     "uniques": 3
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
-    "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 4,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/forks",
@@ -18,9 +12,15 @@
     "uniques": 1
   },
   {
+    "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
+    "title": "Traffic · BG6LH/lotw-dxcc-stats",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 3,
+    "count": 2,
     "uniques": 1
   },
   {
