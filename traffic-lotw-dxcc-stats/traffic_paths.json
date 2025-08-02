@@ -2,7 +2,7 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "GitHub - BG6LH/lotw-dxcc-stats",
-    "count": 12,
+    "count": 13,
     "uniques": 3
   },
   {
@@ -21,6 +21,12 @@
     "path": "/BG6LH/lotw-dxcc-stats/pulse",
     "title": "Pulse · BG6LH/lotw-dxcc-stats",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/actions",
+    "title": "Workflow runs · BG6LH/lotw-dxcc-stats",
+    "count": 1,
     "uniques": 1
   },
   {
@@ -50,12 +56,6 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats/network",
     "title": "Network Graph · BG6LH/lotw-dxcc-stats",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/pulse/monthly",
-    "title": "Pulse · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   }
