@@ -1,8 +1,13 @@
 [
   {
     "referrer": "groups.io",
-    "count": 21,
-    "uniques": 6
+    "count": 23,
+    "uniques": 8
+  },
+  {
+    "referrer": "sp7pki.iq24.pl",
+    "count": 9,
+    "uniques": 9
   },
   {
     "referrer": "radioscanner.ru",
@@ -10,9 +15,9 @@
     "uniques": 4
   },
   {
-    "referrer": "sp7pki.iq24.pl",
-    "count": 7,
-    "uniques": 7
+    "referrer": "qrp.ru",
+    "count": 6,
+    "uniques": 1
   },
   {
     "referrer": "qrper.com",
@@ -25,22 +30,17 @@
     "uniques": 2
   },
   {
-    "referrer": "qrp.ru",
-    "count": 4,
-    "uniques": 1
-  },
-  {
     "referrer": "Google",
     "count": 3,
     "uniques": 2
   },
   {
-    "referrer": "pe4bas.blogspot.com",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "github.com",
+    "referrer": "pe4bas.blogspot.com",
     "count": 1,
     "uniques": 1
   }

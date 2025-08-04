@@ -2,8 +2,8 @@
   {
     "path": "/BG6LH/dxcc-json",
     "title": "GitHub - BG6LH/dxcc-json: A specialized toolkit for processing ARRL DXCC enti...",
-    "count": 69,
-    "uniques": 44
+    "count": 70,
+    "uniques": 45
   },
   {
     "path": "/BG6LH/dxcc-json/commit/830bc5bdee7d16049690034f019324f1e23289ed",
@@ -20,8 +20,8 @@
   {
     "path": "/BG6LH/dxcc-json/tree/main/txt",
     "title": "dxcc-json/txt at main · BG6LH/dxcc-json · GitHub",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/dxcc-json/blob/main/dxcc-txt2json.js",
@@ -54,8 +54,8 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/dxcc-json/tree/main/checker",
-    "title": "dxcc-json/checker at main · BG6LH/dxcc-json · GitHub",
+    "path": "/BG6LH/dxcc-json/blob/main/txt/2022_Current_Deleted.txt",
+    "title": "dxcc-json/txt/2022_Current_Deleted.txt at main · BG6LH/dxcc-json · GitHub",
     "count": 1,
     "uniques": 1
   }
