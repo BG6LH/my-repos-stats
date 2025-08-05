@@ -2,26 +2,8 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "GitHub - BG6LH/lotw-dxcc-stats",
-    "count": 13,
+    "count": 11,
     "uniques": 3
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/forks",
-    "title": "Forks · BG6LH/lotw-dxcc-stats",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
-    "title": "Traffic · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/lotw-dxcc-stats/pulse",
-    "title": "Pulse · BG6LH/lotw-dxcc-stats",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/lotw-dxcc-stats/actions",
@@ -42,20 +24,32 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/code-frequency",
-    "title": "Code frequency · BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/forks",
+    "title": "Forks · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/graphs/commit-activity",
-    "title": "Commit Activity · BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/graphs/traffic",
+    "title": "Traffic · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/lotw-dxcc-stats/network",
-    "title": "Network Graph · BG6LH/lotw-dxcc-stats",
+    "path": "/BG6LH/lotw-dxcc-stats/pulse",
+    "title": "Pulse · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/pulse/monthly",
+    "title": "Pulse · BG6LH/lotw-dxcc-stats",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/stargazers",
+    "title": "Stargazers · BG6LH/lotw-dxcc-stats",
     "count": 1,
     "uniques": 1
   }
