@@ -6,8 +6,13 @@
   },
   {
     "referrer": "sp7pki.iq24.pl",
-    "count": 10,
-    "uniques": 10
+    "count": 19,
+    "uniques": 14
+  },
+  {
+    "referrer": "qrper.com",
+    "count": 13,
+    "uniques": 4
   },
   {
     "referrer": "radioscanner.ru",
@@ -20,12 +25,7 @@
     "uniques": 1
   },
   {
-    "referrer": "qrper.com",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "referrer": "Google",
+    "referrer": "github.com",
     "count": 3,
     "uniques": 2
   },
@@ -35,7 +35,7 @@
     "uniques": 1
   },
   {
-    "referrer": "github.com",
+    "referrer": "Google",
     "count": 1,
     "uniques": 1
   }
