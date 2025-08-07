@@ -4,5 +4,23 @@
     "title": "GitHub - BG6LH/bg6lh.github.io: BG6LH's Digital Garden",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/actions",
+    "title": "Workflow runs · BG6LH/bg6lh.github.io",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/actions/workflows/pages/pages-build-deployment",
+    "title": "pages-build-deployment · Workflow runs · BG6LH/bg6lh.github.io",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/bg6lh.github.io/tree/main/js",
+    "title": "bg6lh.github.io/js at main · BG6LH/bg6lh.github.io",
+    "count": 1,
+    "uniques": 1
   }
 ]
