@@ -1,18 +1,18 @@
 [
   {
     "referrer": "groups.io",
-    "count": 23,
-    "uniques": 8
+    "count": 25,
+    "uniques": 9
   },
   {
     "referrer": "sp7pki.iq24.pl",
-    "count": 20,
-    "uniques": 15
+    "count": 22,
+    "uniques": 17
   },
   {
     "referrer": "qrper.com",
-    "count": 15,
-    "uniques": 6
+    "count": 18,
+    "uniques": 7
   },
   {
     "referrer": "radioscanner.ru",
@@ -21,12 +21,12 @@
   },
   {
     "referrer": "qrp.ru",
-    "count": 6,
-    "uniques": 1
+    "count": 7,
+    "uniques": 2
   },
   {
-    "referrer": "github.com",
-    "count": 3,
+    "referrer": "Google",
+    "count": 4,
     "uniques": 2
   },
   {
@@ -35,8 +35,8 @@
     "uniques": 1
   },
   {
-    "referrer": "Google",
-    "count": 1,
+    "referrer": "github.com",
+    "count": 2,
     "uniques": 1
   }
 ]
