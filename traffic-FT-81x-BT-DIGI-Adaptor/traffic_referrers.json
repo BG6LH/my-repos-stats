@@ -11,23 +11,23 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 20,
+    "count": 21,
     "uniques": 6
   },
   {
     "referrer": "radioscanner.ru",
     "count": 10,
-    "uniques": 3
-  },
-  {
-    "referrer": "qrp.ru",
-    "count": 7,
     "uniques": 2
   },
   {
     "referrer": "Google",
-    "count": 5,
-    "uniques": 3
+    "count": 8,
+    "uniques": 5
+  },
+  {
+    "referrer": "qrp.ru",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "github.com",
