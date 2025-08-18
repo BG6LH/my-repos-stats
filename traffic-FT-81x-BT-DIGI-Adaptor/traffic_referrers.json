@@ -1,18 +1,13 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 22,
-    "uniques": 7
+    "count": 13,
+    "uniques": 6
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 13,
-    "uniques": 3
-  },
-  {
-    "referrer": "sp7pki.iq24.pl",
     "count": 12,
-    "uniques": 7
+    "uniques": 3
   },
   {
     "referrer": "Google",
@@ -25,13 +20,18 @@
     "uniques": 3
   },
   {
-    "referrer": "github.com",
+    "referrer": "sp7pki.iq24.pl",
     "count": 3,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "m.facebook.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "github.com",
+    "count": 1,
     "uniques": 1
   },
   {
