@@ -1,18 +1,18 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 13,
+    "count": 14,
     "uniques": 6
+  },
+  {
+    "referrer": "Google",
+    "count": 13,
+    "uniques": 7
   },
   {
     "referrer": "radioscanner.ru",
     "count": 12,
     "uniques": 3
-  },
-  {
-    "referrer": "Google",
-    "count": 8,
-    "uniques": 5
   },
   {
     "referrer": "groups.io",
@@ -21,8 +21,8 @@
   },
   {
     "referrer": "sp7pki.iq24.pl",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "m.facebook.com",
