@@ -1,26 +1,21 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 14,
-    "uniques": 6
-  },
-  {
-    "referrer": "Google",
-    "count": 13,
-    "uniques": 7
+    "count": 11,
+    "uniques": 5
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 12,
+    "count": 11,
     "uniques": 3
+  },
+  {
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 6
   },
   {
     "referrer": "groups.io",
-    "count": 4,
-    "uniques": 3
-  },
-  {
-    "referrer": "sp7pki.iq24.pl",
     "count": 2,
     "uniques": 2
   },
@@ -36,11 +31,6 @@
   },
   {
     "referrer": "pe4bas.blogspot.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "qrp.ru",
     "count": 1,
     "uniques": 1
   }
