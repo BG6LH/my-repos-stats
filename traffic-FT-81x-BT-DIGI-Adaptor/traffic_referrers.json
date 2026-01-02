@@ -6,18 +6,18 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 19,
+    "count": 24,
     "uniques": 7
-  },
-  {
-    "referrer": "groups.io",
-    "count": 16,
-    "uniques": 4
   },
   {
     "referrer": "radioscanner.ru",
     "count": 15,
     "uniques": 4
+  },
+  {
+    "referrer": "groups.io",
+    "count": 15,
+    "uniques": 3
   },
   {
     "referrer": "qrz.com",
@@ -35,6 +35,11 @@
     "uniques": 3
   },
   {
+    "referrer": "Bing",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "referrer": "thingiverse.com",
     "count": 2,
     "uniques": 2
@@ -43,10 +48,5 @@
     "referrer": "yandex.ru",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "Bing",
-    "count": 2,
-    "uniques": 1
   }
 ]
