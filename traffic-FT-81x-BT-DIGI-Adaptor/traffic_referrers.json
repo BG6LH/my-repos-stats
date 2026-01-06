@@ -7,12 +7,12 @@
   {
     "referrer": "radioscanner.ru",
     "count": 17,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "Google",
     "count": 16,
-    "uniques": 4
+    "uniques": 3
   },
   {
     "referrer": "groups.io",
@@ -20,14 +20,9 @@
     "uniques": 2
   },
   {
-    "referrer": "qrp.ru",
-    "count": 7,
-    "uniques": 2
-  },
-  {
     "referrer": "github.com",
-    "count": 4,
-    "uniques": 3
+    "count": 13,
+    "uniques": 5
   },
   {
     "referrer": "Bing",
@@ -38,6 +33,11 @@
     "referrer": "thingiverse.com",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "qrp.ru",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "yandex.ru",
