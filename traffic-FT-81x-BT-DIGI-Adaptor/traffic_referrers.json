@@ -25,14 +25,14 @@
     "uniques": 3
   },
   {
+    "referrer": "Bing",
+    "count": 5,
+    "uniques": 3
+  },
+  {
     "referrer": "thingiverse.com",
     "count": 4,
     "uniques": 4
-  },
-  {
-    "referrer": "Bing",
-    "count": 4,
-    "uniques": 2
   },
   {
     "referrer": "yandex.ru",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "pe4bas.blogspot.com",
+    "referrer": "bg6lh.com",
     "count": 2,
     "uniques": 1
   }
