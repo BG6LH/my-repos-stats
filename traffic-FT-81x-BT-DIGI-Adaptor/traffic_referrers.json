@@ -1,12 +1,12 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 35,
-    "uniques": 7
+    "count": 37,
+    "uniques": 8
   },
   {
     "referrer": "github.com",
-    "count": 18,
+    "count": 28,
     "uniques": 4
   },
   {
@@ -16,13 +16,13 @@
   },
   {
     "referrer": "groups.io",
-    "count": 15,
-    "uniques": 3
+    "count": 14,
+    "uniques": 2
   },
   {
     "referrer": "Google",
-    "count": 4,
-    "uniques": 3
+    "count": 9,
+    "uniques": 4
   },
   {
     "referrer": "thingiverse.com",
