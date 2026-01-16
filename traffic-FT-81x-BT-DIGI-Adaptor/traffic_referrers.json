@@ -1,7 +1,7 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 36,
+    "count": 28,
     "uniques": 7
   },
   {
@@ -20,14 +20,14 @@
     "uniques": 5
   },
   {
+    "referrer": "groups.io",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "referrer": "thingiverse.com",
     "count": 3,
     "uniques": 3
-  },
-  {
-    "referrer": "Bing",
-    "count": 3,
-    "uniques": 2
   },
   {
     "referrer": "bg6lh.com",
@@ -35,7 +35,7 @@
     "uniques": 1
   },
   {
-    "referrer": "groups.io",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },
