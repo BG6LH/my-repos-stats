@@ -1,8 +1,8 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 28,
-    "uniques": 7
+    "count": 30,
+    "uniques": 8
   },
   {
     "referrer": "github.com",
@@ -11,7 +11,7 @@
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 19,
+    "count": 17,
     "uniques": 3
   },
   {
@@ -26,8 +26,8 @@
   },
   {
     "referrer": "thingiverse.com",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "bg6lh.com",
