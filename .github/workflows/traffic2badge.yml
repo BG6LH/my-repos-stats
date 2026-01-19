@@ -42,6 +42,7 @@ jobs:
             BG6LH/bg6lh.github.io,
             BG6LH/lv-style-pattern-background-by-social-media-icons,
             BG6LH/Flash-Card-Math-Quiz,
+            BG6LH/applemaps2kml,
             BG6LH/Antenna-Entrance-Panel-PCB
           traffic_branch: traffic
           # badge 颜色可按需调整，默认 brightgreen
