@@ -244,6 +244,36 @@
 [![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-Flash-Card-Math-Quiz/clones_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-Flash-Card-Math-Quiz)
 ```
 
+## 📚 [applemaps2kml](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-applemaps2kml)
+
+### 📷 Badges without link of [applemaps2kml](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-applemaps2kml)
+
+![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views.svg)
+![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones.svg)
+![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones_per_week.svg)
+
+```markdown
+![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views.svg)
+![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views_per_week.svg)
+![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones.svg)
+![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones_per_week.svg)
+```
+
+### 🔗 Badges with link of [applemaps2kml](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-applemaps2kml)
+
+[![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+[![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+[![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+[![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+
+```markdown
+[![views](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+[![views per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/views_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+[![clones](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+[![clones per week](https://raw.githubusercontent.com/BG6LH/my-repos-stats/traffic/traffic-applemaps2kml/clones_per_week.svg)](https://github.com/BG6LH/my-repos-stats/tree/traffic#-applemaps2kml)
+```
+
 ## 📚 [Antenna-Entrance-Panel-PCB](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-Antenna-Entrance-Panel-PCB)
 
 ### 📷 Badges without link of [Antenna-Entrance-Panel-PCB](https://github.com/BG6LH/my-repos-stats/tree/traffic/traffic-Antenna-Entrance-Panel-PCB)
