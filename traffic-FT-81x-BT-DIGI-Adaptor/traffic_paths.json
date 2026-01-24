@@ -8,8 +8,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
-    "count": 21,
-    "uniques": 6
+    "count": 20,
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
@@ -36,6 +36,12 @@
     "uniques": 2
   },
   {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/releases/tag/v1.0.0",
+    "title": "Release FT-81x Bluetooth DIGI Adaptor v1.0.0 · BG6LH/FT-81x-BT-DIGI-Adaptor ·...",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "title": "FT-81x-BT-DIGI-Adaptor/pics/FT-81x-BT-DIGI-Adaptor-SCH.png at main · BG6LH/FT...",
     "count": 3,
@@ -52,11 +58,5 @@
     "title": "FT-81x-BT-DIGI-Adaptor/pics at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commit/21c61d1fe03d28020506f0e810eb250b69390e9c",
-    "title": "resistors value update · BG6LH/FT-81x-BT-DIGI-Adaptor@21c61d1 · GitHub",
-    "count": 2,
-    "uniques": 1
   }
 ]

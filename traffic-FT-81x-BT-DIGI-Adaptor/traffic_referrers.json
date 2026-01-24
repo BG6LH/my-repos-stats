@@ -1,18 +1,18 @@
 [
   {
     "referrer": "qrper.com",
-    "count": 24,
-    "uniques": 7
-  },
-  {
-    "referrer": "Google",
-    "count": 18,
+    "count": 23,
     "uniques": 6
   },
   {
+    "referrer": "Google",
+    "count": 20,
+    "uniques": 7
+  },
+  {
     "referrer": "radioscanner.ru",
-    "count": 17,
-    "uniques": 3
+    "count": 16,
+    "uniques": 2
   },
   {
     "referrer": "github.com",
