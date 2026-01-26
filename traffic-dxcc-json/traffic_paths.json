@@ -2,12 +2,18 @@
   {
     "path": "/BG6LH/dxcc-json",
     "title": "GitHub - BG6LH/dxcc-json: A specialized toolkit for processing ARRL DXCC enti...",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/dxcc-json/blob/main/README.zh_CN.md",
     "title": "dxcc-json/README.zh_CN.md at main · BG6LH/dxcc-json · GitHub",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/dxcc-json/blob/main/dxcc-txt2json.js",
+    "title": "dxcc-json/dxcc-txt2json.js at main · BG6LH/dxcc-json · GitHub",
     "count": 1,
     "uniques": 1
   },
