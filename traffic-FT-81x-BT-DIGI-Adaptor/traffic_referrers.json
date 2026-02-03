@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 32,
-    "uniques": 10
+    "count": 30,
+    "uniques": 9
   },
   {
     "referrer": "radioscanner.ru",
@@ -20,14 +20,14 @@
     "uniques": 3
   },
   {
-    "referrer": "thingiverse.com",
-    "count": 6,
-    "uniques": 4
-  },
-  {
     "referrer": "groups.io",
     "count": 5,
     "uniques": 4
+  },
+  {
+    "referrer": "thingiverse.com",
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "away.vk.com",
