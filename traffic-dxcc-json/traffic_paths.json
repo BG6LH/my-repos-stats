@@ -2,8 +2,8 @@
   {
     "path": "/BG6LH/dxcc-json",
     "title": "BG6LH/dxcc-json: A specialized toolkit for processing ARRL DXCC entity data",
-    "count": 5,
-    "uniques": 4
+    "count": 3,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/dxcc-json/blob/main/README.zh_CN.md",
@@ -32,12 +32,6 @@
   {
     "path": "/BG6LH/dxcc-json/blob/main/dxcc_deleted_2022.json",
     "title": "dxcc-json/dxcc_deleted_2022.json at main · BG6LH/dxcc-json",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/dxcc-json/edit/main/README.md",
-    "title": "Editing dxcc-json/README.md at main · BG6LH/dxcc-json",
     "count": 1,
     "uniques": 1
   }
