@@ -2,8 +2,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
-    "count": 65,
-    "uniques": 40
+    "count": 67,
+    "uniques": 39
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
@@ -18,16 +18,16 @@
     "uniques": 8
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues/6",
-    "title": "Bluetooth adapter for FT-891 · Issue #6 · BG6LH/FT-81x-BT-DIGI-Adaptor",
-    "count": 7,
-    "uniques": 2
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "title": "FT-81x-BT-DIGI-Adaptor/pics/FT-81x-BT-DIGI-Adaptor-PIC.png at main · BG6LH/FT...",
     "count": 5,
     "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues/6",
+    "title": "Bluetooth adapter for FT-891 · Issue #6 · BG6LH/FT-81x-BT-DIGI-Adaptor",
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
@@ -36,26 +36,26 @@
     "uniques": 4
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
-    "title": "FT-81x-BT-DIGI-Adaptor/README.zh-CN.md at main · BG6LH/FT-81x-BT-DIGI-Adaptor...",
-    "count": 3,
-    "uniques": 3
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues",
     "title": "GitHub · Where software is built",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pcb",
-    "title": "FT-81x-BT-DIGI-Adaptor/FT817-BT-JDY67.kicad_pcb at main · BG6LH/FT-81x-BT-DIG...",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_sch",
+    "title": "FT-81x-BT-DIGI-Adaptor/FT817-BT-JDY67.kicad_sch at main · BG6LH/FT-81x-BT-DIG...",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_sch",
-    "title": "FT-81x-BT-DIGI-Adaptor/FT817-BT-JDY67.kicad_sch at main · BG6LH/FT-81x-BT-DIG...",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/LICENSE",
+    "title": "FT-81x-BT-DIGI-Adaptor/FT-81x-BT-DIGI-Adaptor-SCH.pdf (메인 · BG6LH/FT-81x-BT-D...",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
+    "title": "FT-81x-BT-DIGI-Adaptor/README.zh-CN.md at main · BG6LH/FT-81x-BT-DIGI-Adaptor...",
     "count": 1,
     "uniques": 1
   }
