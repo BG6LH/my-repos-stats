@@ -1,23 +1,28 @@
 [
   {
+    "referrer": "github.com",
+    "count": 36,
+    "uniques": 5
+  },
+  {
     "referrer": "Google",
-    "count": 33,
-    "uniques": 13
+    "count": 30,
+    "uniques": 11
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 17,
-    "uniques": 3
-  },
-  {
-    "referrer": "github.com",
-    "count": 8,
+    "count": 15,
     "uniques": 4
   },
   {
     "referrer": "qrper.com",
     "count": 6,
     "uniques": 4
+  },
+  {
+    "referrer": "l.facebook.com",
+    "count": 6,
+    "uniques": 1
   },
   {
     "referrer": "groups.io",
@@ -31,8 +36,8 @@
   },
   {
     "referrer": "thingiverse.com",
-    "count": 4,
-    "uniques": 3
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "bg6lh.com",
