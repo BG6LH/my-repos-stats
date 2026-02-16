@@ -5,19 +5,19 @@
     "uniques": 4
   },
   {
+    "referrer": "qrper.com",
+    "count": 20,
+    "uniques": 7
+  },
+  {
     "referrer": "Google",
     "count": 18,
     "uniques": 8
   },
   {
-    "referrer": "qrper.com",
-    "count": 18,
-    "uniques": 6
-  },
-  {
     "referrer": "radioscanner.ru",
     "count": 15,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "thingiverse.com",
@@ -36,8 +36,8 @@
   },
   {
     "referrer": "pe4bas.blogspot.com",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "bg6lh.com",
