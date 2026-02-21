@@ -6,18 +6,13 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 23,
-    "uniques": 9
+    "count": 22,
+    "uniques": 8
   },
   {
     "referrer": "radioscanner.ru",
     "count": 16,
     "uniques": 5
-  },
-  {
-    "referrer": "Google",
-    "count": 15,
-    "uniques": 7
   },
   {
     "referrer": "thingiverse.com",
@@ -35,17 +30,22 @@
     "uniques": 1
   },
   {
-    "referrer": "groups.io",
-    "count": 2,
-    "uniques": 2
+    "referrer": "Google",
+    "count": 5,
+    "uniques": 4
   },
   {
-    "referrer": "pe4bas.blogspot.com",
-    "count": 2,
-    "uniques": 2
+    "referrer": "groups.io",
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "morsewalker.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "pe4bas.blogspot.com",
     "count": 1,
     "uniques": 1
   }
