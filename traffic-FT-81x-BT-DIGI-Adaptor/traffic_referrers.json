@@ -5,19 +5,14 @@
     "uniques": 4
   },
   {
-    "referrer": "Google",
-    "count": 18,
-    "uniques": 7
-  },
-  {
     "referrer": "qrper.com",
     "count": 17,
     "uniques": 9
   },
   {
-    "referrer": "thingiverse.com",
-    "count": 6,
-    "uniques": 5
+    "referrer": "Google",
+    "count": 15,
+    "uniques": 4
   },
   {
     "referrer": "groups.io",
@@ -25,9 +20,14 @@
     "uniques": 3
   },
   {
-    "referrer": "github.com",
-    "count": 3,
+    "referrer": "thingiverse.com",
+    "count": 4,
     "uniques": 3
+  },
+  {
+    "referrer": "github.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "m.facebook.com",
