@@ -2,17 +2,17 @@
   {
     "referrer": "radioscanner.ru",
     "count": 19,
-    "uniques": 4
-  },
-  {
-    "referrer": "Google",
-    "count": 14,
-    "uniques": 3
+    "uniques": 5
   },
   {
     "referrer": "thingiverse.com",
     "count": 12,
     "uniques": 5
+  },
+  {
+    "referrer": "Google",
+    "count": 10,
+    "uniques": 2
   },
   {
     "referrer": "qrper.com",
@@ -26,11 +26,6 @@
   },
   {
     "referrer": "away.vk.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "groups.io",
     "count": 1,
     "uniques": 1
   },
