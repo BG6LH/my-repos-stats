@@ -1,8 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 21,
-    "uniques": 7
+    "count": 22,
+    "uniques": 8
   },
   {
     "referrer": "radioscanner.ru",
@@ -15,9 +15,14 @@
     "uniques": 5
   },
   {
-    "referrer": "qrper.com",
-    "count": 3,
-    "uniques": 3
+    "referrer": "groups.io",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 1,
+    "uniques": 1
   },
   {
     "referrer": "away.vk.com",
@@ -30,12 +35,12 @@
     "uniques": 1
   },
   {
-    "referrer": "groups.io",
+    "referrer": "pe4bas.blogspot.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "pe4bas.blogspot.com",
+    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   },
