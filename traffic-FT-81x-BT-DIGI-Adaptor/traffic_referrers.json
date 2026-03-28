@@ -7,12 +7,12 @@
   {
     "referrer": "radioscanner.ru",
     "count": 13,
-    "uniques": 3
+    "uniques": 2
   },
   {
     "referrer": "forum.index.hu",
-    "count": 9,
-    "uniques": 3
+    "count": 11,
+    "uniques": 5
   },
   {
     "referrer": "DuckDuckGo",
@@ -30,17 +30,17 @@
     "uniques": 2
   },
   {
-    "referrer": "away.vk.com",
+    "referrer": "qrper.com",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "m.rm9wy.ru",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "pe4bas.blogspot.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   },
