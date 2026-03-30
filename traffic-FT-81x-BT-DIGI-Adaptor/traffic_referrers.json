@@ -1,13 +1,13 @@
 [
   {
     "referrer": "Google",
-    "count": 27,
-    "uniques": 9
+    "count": 24,
+    "uniques": 6
   },
   {
     "referrer": "radioscanner.ru",
     "count": 14,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "forum.index.hu",
@@ -30,14 +30,14 @@
     "uniques": 2
   },
   {
-    "referrer": "pe4bas.blogspot.com",
+    "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "qrper.com",
+    "referrer": "pe4bas.blogspot.com",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "referrer": "m.rm9wy.ru",
