@@ -1,7 +1,12 @@
 [
   {
     "referrer": "Google",
-    "count": 24,
+    "count": 34,
+    "uniques": 5
+  },
+  {
+    "referrer": "forum.index.hu",
+    "count": 14,
     "uniques": 6
   },
   {
@@ -10,14 +15,14 @@
     "uniques": 4
   },
   {
-    "referrer": "forum.index.hu",
-    "count": 11,
-    "uniques": 5
-  },
-  {
     "referrer": "DuckDuckGo",
     "count": 6,
     "uniques": 2
+  },
+  {
+    "referrer": "thingiverse.com",
+    "count": 6,
+    "uniques": 1
   },
   {
     "referrer": "github.com",
@@ -30,6 +35,11 @@
     "uniques": 2
   },
   {
+    "referrer": "m.rm9wy.ru",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
@@ -37,16 +47,6 @@
   {
     "referrer": "pe4bas.blogspot.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "m.rm9wy.ru",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "thingiverse.com",
-    "count": 1,
     "uniques": 1
   }
 ]
