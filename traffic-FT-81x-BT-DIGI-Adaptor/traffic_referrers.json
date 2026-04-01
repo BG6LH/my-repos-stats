@@ -2,12 +2,12 @@
   {
     "referrer": "Google",
     "count": 34,
-    "uniques": 5
+    "uniques": 6
   },
   {
     "referrer": "forum.index.hu",
-    "count": 14,
-    "uniques": 6
+    "count": 16,
+    "uniques": 8
   },
   {
     "referrer": "radioscanner.ru",
@@ -15,14 +15,14 @@
     "uniques": 4
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 6,
+    "referrer": "thingiverse.com",
+    "count": 7,
     "uniques": 2
   },
   {
-    "referrer": "thingiverse.com",
+    "referrer": "DuckDuckGo",
     "count": 6,
-    "uniques": 1
+    "uniques": 2
   },
   {
     "referrer": "github.com",
