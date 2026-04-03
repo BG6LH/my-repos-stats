@@ -1,62 +1,62 @@
 [
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
-    "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
+    "title": "Overview",
     "count": 44,
     "uniques": 32
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
-    "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
+    "title": "/tree/main",
     "count": 16,
     "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "title": "FT-81x-BT-DIGI-Adaptor/pics at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "count": 11,
     "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
-    "title": "FT-81x-BT-DIGI-Adaptor/pics at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
     "count": 6,
     "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
+    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "count": 5,
     "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "title": "FT-81x-BT-DIGI-Adaptor/pics/FT-81x-BT-DIGI-Adaptor-3D.png at main · BG6LH/FT-...",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
     "count": 5,
     "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
-    "title": "FT-81x-BT-DIGI-Adaptor/pics at main · BG6LH/FT-81x-BT-DIGI-Adaptor · GitHub",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "count": 3,
     "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
-    "title": "GitHub - BG6LH/FT-81x-BT-DIGI-Adaptor: A PCB Design of Bluetooth DIGI Adaptor...",
+    "title": "/tree/main/pics",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
-    "title": "FT-81x-BT-DIGI-Adaptor/README.zh-CN.md at main · BG6LH/FT-81x-BT-DIGI-Adaptor...",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues/6",
+    "title": "/issues/6",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues/6",
-    "title": "Bluetooth adapter for FT-891 · Issue #6 · BG6LH/FT-81x-BT-DIGI-Adaptor",
-    "count": 2,
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/.DS_Store",
+    "title": "/blob/main/.DS_Store",
+    "count": 1,
     "uniques": 1
   }
 ]
