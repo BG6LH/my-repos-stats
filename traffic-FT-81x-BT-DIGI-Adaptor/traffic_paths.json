@@ -2,14 +2,14 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 43,
-    "uniques": 31
+    "count": 42,
+    "uniques": 30
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
     "count": 17,
-    "uniques": 6
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
@@ -48,14 +48,14 @@
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commit/33d25877f1a73a91e4316e322f8bb942f08319e1",
-    "title": "/commit/33d25877f1a73a91e4316e322f8bb942f08319e1",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
+    "title": "/blob/main/README.zh-CN.md",
     "count": 2,
-    "uniques": 1
+    "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues/6",
-    "title": "/issues/6",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commit/33d25877f1a73a91e4316e322f8bb942f08319e1",
+    "title": "/commit/33d25877f1a73a91e4316e322f8bb942f08319e1",
     "count": 2,
     "uniques": 1
   }
