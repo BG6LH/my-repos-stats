@@ -12,7 +12,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 15,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "thingiverse.com",
@@ -22,6 +22,11 @@
   {
     "referrer": "DuckDuckGo",
     "count": 5,
+    "uniques": 1
+  },
+  {
+    "referrer": "groups.io",
+    "count": 4,
     "uniques": 1
   },
   {
@@ -35,17 +40,12 @@
     "uniques": 2
   },
   {
-    "referrer": "qrper.com",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "pe4bas.blogspot.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "groups.io",
+    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   }
