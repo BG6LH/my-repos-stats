@@ -2,12 +2,12 @@
   {
     "path": "/BG6LH/dxcc-json",
     "title": "Overview",
-    "count": 6,
+    "count": 7,
     "uniques": 6
   },
   {
-    "path": "/BG6LH/dxcc-json/blob/main/dxcc_deleted_2022.json",
-    "title": "/blob/main/dxcc_deleted_2022.json",
+    "path": "/BG6LH/dxcc-json/blob/main/dxcc_current_deleted_2022.json",
+    "title": "/blob/main/dxcc_current_deleted_2022.json",
     "count": 2,
     "uniques": 2
   },
@@ -30,8 +30,8 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/dxcc-json/blob/main/dxcc_current_deleted_2022.json",
-    "title": "/blob/main/dxcc_current_deleted_2022.json",
+    "path": "/BG6LH/dxcc-json/blob/main/dxcc_deleted_2022.json",
+    "title": "/blob/main/dxcc_deleted_2022.json",
     "count": 1,
     "uniques": 1
   }
