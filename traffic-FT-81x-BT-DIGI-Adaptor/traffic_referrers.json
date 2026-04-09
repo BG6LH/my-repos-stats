@@ -1,13 +1,8 @@
 [
   {
     "referrer": "Google",
-    "count": 30,
+    "count": 19,
     "uniques": 3
-  },
-  {
-    "referrer": "forum.index.hu",
-    "count": 16,
-    "uniques": 8
   },
   {
     "referrer": "radioscanner.ru",
@@ -15,9 +10,14 @@
     "uniques": 4
   },
   {
+    "referrer": "forum.index.hu",
+    "count": 9,
+    "uniques": 7
+  },
+  {
     "referrer": "thingiverse.com",
-    "count": 7,
-    "uniques": 2
+    "count": 9,
+    "uniques": 3
   },
   {
     "referrer": "groups.io",
@@ -25,14 +25,14 @@
     "uniques": 1
   },
   {
-    "referrer": "DuckDuckGo",
-    "count": 5,
-    "uniques": 1
-  },
-  {
     "referrer": "qrper.com",
     "count": 4,
     "uniques": 3
+  },
+  {
+    "referrer": "DuckDuckGo",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "m.rm9wy.ru",
@@ -42,11 +42,6 @@
   {
     "referrer": "pe4bas.blogspot.com",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "ya.ru",
-    "count": 1,
     "uniques": 1
   }
 ]
