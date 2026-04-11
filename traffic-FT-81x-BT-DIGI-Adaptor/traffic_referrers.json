@@ -20,14 +20,14 @@
     "uniques": 1
   },
   {
-    "referrer": "forum.index.hu",
-    "count": 7,
-    "uniques": 5
-  },
-  {
     "referrer": "qrper.com",
     "count": 5,
     "uniques": 4
+  },
+  {
+    "referrer": "forum.index.hu",
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "DuckDuckGo",
@@ -35,13 +35,13 @@
     "uniques": 1
   },
   {
-    "referrer": "m.rm9wy.ru",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "referrer": "pe4bas.blogspot.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "m.rm9wy.ru",
+    "count": 1,
     "uniques": 1
   }
 ]

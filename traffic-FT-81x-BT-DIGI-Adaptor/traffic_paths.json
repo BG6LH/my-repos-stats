@@ -2,8 +2,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 38,
-    "uniques": 25
+    "count": 35,
+    "uniques": 22
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
@@ -42,12 +42,6 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
-    "title": "/blob/main/README.zh-CN.md",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "count": 2,
@@ -57,6 +51,12 @@
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commit/33d25877f1a73a91e4316e322f8bb942f08319e1",
     "title": "/commit/33d25877f1a73a91e4316e322f8bb942f08319e1",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/.DS_Store",
+    "title": "/blob/main/.DS_Store",
+    "count": 1,
     "uniques": 1
   }
 ]
