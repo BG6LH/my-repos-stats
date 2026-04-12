@@ -6,8 +6,8 @@
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 16,
-    "uniques": 5
+    "count": 15,
+    "uniques": 3
   },
   {
     "referrer": "thingiverse.com",
@@ -16,7 +16,7 @@
   },
   {
     "referrer": "groups.io",
-    "count": 8,
+    "count": 9,
     "uniques": 1
   },
   {
@@ -35,12 +35,12 @@
     "uniques": 1
   },
   {
-    "referrer": "pe4bas.blogspot.com",
-    "count": 2,
+    "referrer": "m.rm9wy.ru",
+    "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "m.rm9wy.ru",
+    "referrer": "pe4bas.blogspot.com",
     "count": 1,
     "uniques": 1
   }
