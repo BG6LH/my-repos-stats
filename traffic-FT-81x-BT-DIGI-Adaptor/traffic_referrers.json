@@ -5,18 +5,8 @@
     "uniques": 4
   },
   {
-    "referrer": "Google",
-    "count": 15,
-    "uniques": 2
-  },
-  {
-    "referrer": "thingiverse.com",
-    "count": 9,
-    "uniques": 3
-  },
-  {
     "referrer": "groups.io",
-    "count": 9,
+    "count": 10,
     "uniques": 1
   },
   {
@@ -25,9 +15,9 @@
     "uniques": 4
   },
   {
-    "referrer": "forum.index.hu",
-    "count": 5,
-    "uniques": 3
+    "referrer": "thingiverse.com",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -35,7 +25,17 @@
     "uniques": 1
   },
   {
-    "referrer": "m.rm9wy.ru",
+    "referrer": "forum.index.hu",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "Google",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "sp7pki.iq24.pl",
     "count": 1,
     "uniques": 1
   }
