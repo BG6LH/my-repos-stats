@@ -3,23 +3,29 @@
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
     "count": 28,
-    "uniques": 18
+    "uniques": 16
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 17,
-    "uniques": 5
+    "count": 18,
+    "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
     "title": "/tree/main/pics",
-    "count": 4,
-    "uniques": 1
+    "count": 5,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
     "title": "/blob/main/README.zh-CN.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "count": 3,
     "uniques": 3
   },
@@ -32,12 +38,6 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "count": 2,
     "uniques": 2
   },
