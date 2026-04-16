@@ -1,14 +1,14 @@
 [
   {
-    "path": "/BG6LH/lotw-dxcc-stats/blob/main/README.zh-CN.md",
-    "title": "/blob/main/README.zh-CN.md",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "Overview",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/blob/main/README.zh-CN.md",
+    "title": "/blob/main/README.zh-CN.md",
+    "count": 1,
+    "uniques": 1
   }
 ]

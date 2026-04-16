@@ -2,11 +2,11 @@
   {
     "referrer": "radioscanner.ru",
     "count": 15,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "groups.io",
-    "count": 11,
+    "count": 12,
     "uniques": 1
   },
   {
@@ -30,12 +30,17 @@
     "uniques": 2
   },
   {
+    "referrer": "away.vk.com",
+    "count": 2,
+    "uniques": 1
+  },
+  {
     "referrer": "thingiverse.com",
     "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "away.vk.com",
+    "referrer": "github.com",
     "count": 1,
     "uniques": 1
   },
