@@ -11,8 +11,13 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 5,
-    "uniques": 4
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "referrer": "away.vk.com",
+    "count": 4,
+    "uniques": 1
   },
   {
     "referrer": "pe4bas.blogspot.com",
@@ -21,11 +26,6 @@
   },
   {
     "referrer": "DuckDuckGo",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "referrer": "away.vk.com",
     "count": 3,
     "uniques": 1
   },
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "sp7pki.iq24.pl",
+    "referrer": "qrp.ru",
     "count": 1,
     "uniques": 1
   }
