@@ -6,8 +6,8 @@
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 15,
-    "uniques": 7
+    "count": 14,
+    "uniques": 6
   },
   {
     "referrer": "Google",
@@ -30,12 +30,12 @@
     "uniques": 3
   },
   {
-    "referrer": "qrp.ru",
-    "count": 1,
-    "uniques": 1
+    "referrer": "qrper.com",
+    "count": 3,
+    "uniques": 2
   },
   {
-    "referrer": "qrper.com",
+    "referrer": "qrp.ru",
     "count": 1,
     "uniques": 1
   },
