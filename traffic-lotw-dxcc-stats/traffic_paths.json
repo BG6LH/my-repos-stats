@@ -2,6 +2,18 @@
   {
     "path": "/BG6LH/lotw-dxcc-stats",
     "title": "Overview",
+    "count": 3,
+    "uniques": 2
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/agents",
+    "title": "/agents",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/lotw-dxcc-stats/commits/main",
+    "title": "/commits/main",
     "count": 1,
     "uniques": 1
   }

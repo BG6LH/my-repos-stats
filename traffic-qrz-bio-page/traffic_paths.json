@@ -2,8 +2,14 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 3,
-    "uniques": 3
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
+    "title": "/blob/main/bio.simulator.html",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/prompt-reference/QRZ-Biography-Page-Fundamentals.md",
@@ -50,12 +56,6 @@
   {
     "path": "/BG6LH/qrz-bio-page/issues",
     "title": "/issues",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/pulls",
-    "title": "/pulls",
     "count": 1,
     "uniques": 1
   }

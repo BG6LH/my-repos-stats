@@ -1,17 +1,17 @@
 [
   {
-    "referrer": "Bing",
-    "count": 22,
-    "uniques": 1
+    "referrer": "groups.io",
+    "count": 27,
+    "uniques": 6
   },
   {
-    "referrer": "groups.io",
-    "count": 20,
-    "uniques": 3
+    "referrer": "Bing",
+    "count": 23,
+    "uniques": 2
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 13,
+    "count": 11,
     "uniques": 5
   },
   {
@@ -26,12 +26,17 @@
   },
   {
     "referrer": "github.com",
-    "count": 7,
-    "uniques": 4
+    "count": 6,
+    "uniques": 3
   },
   {
     "referrer": "qrper.com",
     "count": 3,
+    "uniques": 2
+  },
+  {
+    "referrer": "thingiverse.com",
+    "count": 2,
     "uniques": 2
   },
   {
@@ -41,11 +46,6 @@
   },
   {
     "referrer": "qrz.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "thingiverse.com",
     "count": 1,
     "uniques": 1
   }
