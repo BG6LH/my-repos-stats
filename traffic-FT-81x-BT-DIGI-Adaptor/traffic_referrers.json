@@ -1,7 +1,7 @@
 [
   {
     "referrer": "groups.io",
-    "count": 27,
+    "count": 29,
     "uniques": 6
   },
   {
@@ -10,9 +10,14 @@
     "uniques": 2
   },
   {
-    "referrer": "radioscanner.ru",
-    "count": 11,
+    "referrer": "github.com",
+    "count": 22,
     "uniques": 5
+  },
+  {
+    "referrer": "away.vk.com",
+    "count": 12,
+    "uniques": 1
   },
   {
     "referrer": "Google",
@@ -20,19 +25,9 @@
     "uniques": 3
   },
   {
-    "referrer": "away.vk.com",
-    "count": 11,
-    "uniques": 1
-  },
-  {
-    "referrer": "github.com",
-    "count": 6,
-    "uniques": 3
-  },
-  {
-    "referrer": "qrper.com",
-    "count": 3,
-    "uniques": 2
+    "referrer": "radioscanner.ru",
+    "count": 10,
+    "uniques": 5
   },
   {
     "referrer": "thingiverse.com",
@@ -40,8 +35,8 @@
     "uniques": 2
   },
   {
-    "referrer": "qrp.ru",
-    "count": 1,
+    "referrer": "qrper.com",
+    "count": 2,
     "uniques": 1
   },
   {

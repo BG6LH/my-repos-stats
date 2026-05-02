@@ -2,14 +2,14 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 45,
-    "uniques": 21
+    "count": 46,
+    "uniques": 20
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 28,
-    "uniques": 10
+    "count": 27,
+    "uniques": 9
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
@@ -20,8 +20,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "count": 6,
-    "uniques": 5
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
@@ -30,33 +30,33 @@
     "uniques": 4
   },
   {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 4,
+    "uniques": 3
+  },
+  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pcb",
     "title": "/blob/main/FT817-BT-JDY67.kicad_pcb",
     "count": 3,
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pro",
-    "title": "/blob/main/FT817-BT-JDY67.kicad_pro",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
     "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
-    "count": 2,
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "count": 2,
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/.github",
+    "title": "/tree/main/.github",
+    "count": 3,
     "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
     "title": "/tree/main/pics",
-    "count": 2,
+    "count": 3,
     "uniques": 2
   }
 ]
