@@ -2,14 +2,14 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 46,
-    "uniques": 20
+    "count": 50,
+    "uniques": 21
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 27,
-    "uniques": 9
+    "count": 31,
+    "uniques": 10
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
@@ -24,39 +24,39 @@
     "uniques": 6
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
-    "title": "/blob/main/README.zh-CN.md",
-    "count": 5,
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 7,
     "uniques": 4
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
+    "title": "/tree/main/library",
+    "count": 6,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
+    "title": "/blob/main/bom/ibom.html",
+    "count": 6,
+    "uniques": 2
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
+    "title": "/blob/main/README.zh-CN.md",
     "count": 4,
     "uniques": 3
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pcb",
-    "title": "/blob/main/FT817-BT-JDY67.kicad_pcb",
-    "count": 3,
-    "uniques": 2
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "count": 3,
-    "uniques": 2
+    "count": 4,
+    "uniques": 3
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/.github",
-    "title": "/tree/main/.github",
-    "count": 3,
-    "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
-    "title": "/tree/main/pics",
-    "count": 3,
-    "uniques": 2
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
+    "title": "/tree/main/bom",
+    "count": 4,
+    "uniques": 3
   }
 ]
