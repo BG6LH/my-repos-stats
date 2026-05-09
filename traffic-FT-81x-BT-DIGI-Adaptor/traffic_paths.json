@@ -2,61 +2,61 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 46,
-    "uniques": 21
+    "count": 55,
+    "uniques": 26
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 27,
-    "uniques": 10
+    "count": 34,
+    "uniques": 11
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
+    "title": "/tree/main/Gerber",
+    "count": 15,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 9,
-    "uniques": 5
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
-    "title": "/tree/main/bom",
-    "count": 8,
-    "uniques": 5
+    "count": 12,
+    "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
     "title": "/blob/main/bom/ibom.html",
-    "count": 8,
+    "count": 10,
     "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
     "title": "/tree/main/library",
-    "count": 8,
-    "uniques": 3
+    "count": 10,
+    "uniques": 4
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 9,
+    "uniques": 6
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
+    "title": "/tree/main/bom",
+    "count": 9,
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "count": 7,
-    "uniques": 6
+    "count": 8,
+    "uniques": 7
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
     "title": "/tree/main/pics",
     "count": 7,
     "uniques": 5
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 7,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
-    "title": "/tree/main/Gerber",
-    "count": 7,
-    "uniques": 4
   }
 ]
