@@ -2,14 +2,14 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 55,
+    "count": 57,
     "uniques": 26
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 34,
-    "uniques": 11
+    "count": 37,
+    "uniques": 14
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
@@ -24,6 +24,12 @@
     "uniques": 6
   },
   {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 10,
+    "uniques": 7
+  },
+  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
     "title": "/blob/main/bom/ibom.html",
     "count": 10,
@@ -34,12 +40,6 @@
     "title": "/tree/main/library",
     "count": 10,
     "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 9,
-    "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",

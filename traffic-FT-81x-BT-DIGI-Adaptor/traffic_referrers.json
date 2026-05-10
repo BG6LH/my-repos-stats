@@ -10,24 +10,24 @@
     "uniques": 6
   },
   {
+    "referrer": "Google",
+    "count": 24,
+    "uniques": 4
+  },
+  {
     "referrer": "Bing",
     "count": 23,
     "uniques": 2
   },
   {
-    "referrer": "Google",
-    "count": 18,
-    "uniques": 3
+    "referrer": "radioscanner.ru",
+    "count": 15,
+    "uniques": 8
   },
   {
     "referrer": "qrper.com",
-    "count": 16,
-    "uniques": 3
-  },
-  {
-    "referrer": "radioscanner.ru",
     "count": 14,
-    "uniques": 7
+    "uniques": 2
   },
   {
     "referrer": "away.vk.com",
