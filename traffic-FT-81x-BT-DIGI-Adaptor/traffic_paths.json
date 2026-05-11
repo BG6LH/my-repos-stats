@@ -2,26 +2,32 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 57,
-    "uniques": 26
+    "count": 50,
+    "uniques": 24
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
     "count": 37,
-    "uniques": 14
+    "uniques": 13
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
     "title": "/tree/main/Gerber",
-    "count": 15,
-    "uniques": 4
+    "count": 16,
+    "uniques": 5
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 12,
-    "uniques": 6
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
+    "title": "/blob/main/bom/ibom.html",
+    "count": 11,
+    "uniques": 5
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
+    "title": "/tree/main/library",
+    "count": 11,
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
@@ -30,16 +36,10 @@
     "uniques": 7
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
-    "title": "/blob/main/bom/ibom.html",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/resources",
+    "title": "/tree/main/resources",
     "count": 10,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
-    "title": "/tree/main/library",
-    "count": 10,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
@@ -54,8 +54,8 @@
     "uniques": 7
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
-    "title": "/tree/main/pics",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "count": 7,
     "uniques": 5
   }
