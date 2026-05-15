@@ -1,8 +1,8 @@
 [
   {
     "referrer": "groups.io",
-    "count": 50,
-    "uniques": 8
+    "count": 41,
+    "uniques": 7
   },
   {
     "referrer": "github.com",
@@ -16,8 +16,8 @@
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 15,
-    "uniques": 9
+    "count": 16,
+    "uniques": 10
   },
   {
     "referrer": "qrper.com",
@@ -26,13 +26,8 @@
   },
   {
     "referrer": "away.vk.com",
-    "count": 11,
+    "count": 10,
     "uniques": 1
-  },
-  {
-    "referrer": "thingiverse.com",
-    "count": 2,
-    "uniques": 2
   },
   {
     "referrer": "forum.index.hu",
@@ -40,12 +35,17 @@
     "uniques": 1
   },
   {
-    "referrer": "Bing",
+    "referrer": "qrz.com",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "qrz.com",
+    "referrer": "thingiverse.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }
