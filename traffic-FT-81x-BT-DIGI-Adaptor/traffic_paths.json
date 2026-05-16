@@ -2,61 +2,61 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 44,
-    "uniques": 23
+    "count": 41,
+    "uniques": 24
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 36,
-    "uniques": 15
+    "count": 38,
+    "uniques": 18
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
     "title": "/tree/main/Gerber",
-    "count": 16,
-    "uniques": 5
+    "count": 15,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
     "title": "/blob/main/bom/ibom.html",
-    "count": 11,
-    "uniques": 5
+    "count": 10,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
     "title": "/tree/main/library",
-    "count": 11,
-    "uniques": 5
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
     "count": 10,
-    "uniques": 7
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/resources",
     "title": "/tree/main/resources",
-    "count": 10,
-    "uniques": 5
+    "count": 9,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
     "title": "/tree/main/bom",
-    "count": 9,
-    "uniques": 5
+    "count": 8,
+    "uniques": 4
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 6,
+    "uniques": 4
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "count": 5,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/.github",
     "title": "/tree/main/.github",
-    "count": 7,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "count": 6,
-    "uniques": 5
+    "count": 5,
+    "uniques": 3
   }
 ]
