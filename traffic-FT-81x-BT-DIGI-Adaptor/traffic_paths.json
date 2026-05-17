@@ -2,50 +2,38 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 41,
+    "count": 39,
     "uniques": 24
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 38,
-    "uniques": 18
+    "count": 33,
+    "uniques": 16
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
     "title": "/tree/main/Gerber",
-    "count": 15,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
-    "title": "/blob/main/bom/ibom.html",
-    "count": 10,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
-    "title": "/tree/main/library",
-    "count": 10,
-    "uniques": 4
+    "count": 14,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/resources",
     "title": "/tree/main/resources",
-    "count": 9,
-    "uniques": 4
+    "count": 8,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
     "title": "/tree/main/bom",
-    "count": 8,
-    "uniques": 4
+    "count": 6,
+    "uniques": 3
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
+    "title": "/tree/main/library",
     "count": 6,
-    "uniques": 4
+    "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
@@ -54,9 +42,21 @@
     "uniques": 3
   },
   {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
+    "title": "/blob/main/bom/ibom.html",
+    "count": 5,
+    "uniques": 3
+  },
+  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/.github",
     "title": "/tree/main/.github",
     "count": 5,
     "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
+    "count": 4,
+    "uniques": 4
   }
 ]

@@ -1,18 +1,18 @@
 [
   {
-    "referrer": "groups.io",
-    "count": 39,
-    "uniques": 6
-  },
-  {
     "referrer": "Google",
     "count": 25,
     "uniques": 5
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 18,
-    "uniques": 12
+    "count": 17,
+    "uniques": 11
+  },
+  {
+    "referrer": "groups.io",
+    "count": 17,
+    "uniques": 5
   },
   {
     "referrer": "github.com",
