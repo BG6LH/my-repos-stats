@@ -5,19 +5,19 @@
     "uniques": 5
   },
   {
-    "referrer": "radioscanner.ru",
-    "count": 17,
-    "uniques": 11
-  },
-  {
     "referrer": "groups.io",
-    "count": 17,
+    "count": 16,
     "uniques": 5
   },
   {
     "referrer": "github.com",
     "count": 16,
     "uniques": 4
+  },
+  {
+    "referrer": "radioscanner.ru",
+    "count": 14,
+    "uniques": 9
   },
   {
     "referrer": "qrper.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "thingiverse.com",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
   },
   {
     "referrer": "forum.index.hu",
