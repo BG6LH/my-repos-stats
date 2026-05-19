@@ -2,56 +2,56 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 38,
-    "uniques": 24
+    "count": 35,
+    "uniques": 22
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 31,
-    "uniques": 14
+    "count": 32,
+    "uniques": 15
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
     "title": "/tree/main/Gerber",
-    "count": 14,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/resources",
-    "title": "/tree/main/resources",
-    "count": 8,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
-    "title": "/tree/main/bom",
-    "count": 6,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
-    "title": "/tree/main/library",
-    "count": 6,
+    "count": 12,
     "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 5,
-    "uniques": 3
+    "count": 6,
+    "uniques": 4
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
-    "title": "/blob/main/bom/ibom.html",
-    "count": 5,
-    "uniques": 3
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/resources",
+    "title": "/tree/main/resources",
+    "count": 6,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "count": 4,
     "uniques": 4
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
+    "title": "/tree/main/bom",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
+    "title": "/tree/main/library",
+    "count": 4,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
+    "title": "/blob/main/bom/ibom.html",
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/resources/JDY-67_Datasheet_en.pdf",
