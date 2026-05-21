@@ -2,60 +2,6 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 13,
-    "uniques": 2
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
-    "title": "/blob/main/bio.simulator.html",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/actions",
-    "title": "/actions",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.css",
-    "title": "/blob/main/bio.snippet.css",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/snippet.bio.css",
-    "title": "/blob/main/snippet.bio.css",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blame/main/bio.simulator.html",
-    "title": "/blame/main/bio.simulator.html",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.html",
-    "title": "/blob/main/bio.snippet.html",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/projects",
-    "title": "/projects",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/tree/main",
-    "title": "/tree/main",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blame/main/bio.snippet.css",
-    "title": "/blame/main/bio.snippet.css",
     "count": 1,
     "uniques": 1
   }
