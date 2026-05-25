@@ -1,50 +1,20 @@
 [
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
-    "title": "/tree/main",
-    "count": 20,
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
+    "title": "Overview",
+    "count": 19,
     "uniques": 12
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
-    "title": "Overview",
-    "count": 16,
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
+    "title": "/tree/main",
+    "count": 19,
     "uniques": 11
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/resources",
-    "title": "/tree/main/resources",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
-    "title": "/blob/main/bom/ibom.html",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
-    "title": "/tree/main/Gerber",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/resources/JDY-67_Datasheet_en.pdf",
-    "title": "/blob/main/resources/JDY-67_Datasheet_en.pdf",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commit/21c61d1fe03d28020506f0e810eb250b69390e9c",
     "title": "/commit/21c61d1fe03d28020506f0e810eb250b69390e9c",
     "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/.github/FUNDING.yml",
-    "title": "/blob/main/.github/FUNDING.yml",
-    "count": 1,
     "uniques": 1
   },
   {
@@ -54,8 +24,20 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
+    "title": "/blob/main/bom/ibom.html",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
+    "title": "/tree/main/Gerber",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/pics",
+    "title": "/tree/main/pics",
     "count": 1,
     "uniques": 1
   }
