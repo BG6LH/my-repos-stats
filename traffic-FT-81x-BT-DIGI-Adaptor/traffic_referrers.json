@@ -1,5 +1,10 @@
 [
   {
+    "referrer": "Google",
+    "count": 11,
+    "uniques": 5
+  },
+  {
     "referrer": "qrz.com",
     "count": 10,
     "uniques": 1
@@ -11,17 +16,12 @@
   },
   {
     "referrer": "groups.io",
-    "count": 8,
+    "count": 6,
     "uniques": 3
   },
   {
-    "referrer": "Google",
-    "count": 7,
-    "uniques": 2
-  },
-  {
-    "referrer": "away.vk.com",
-    "count": 5,
+    "referrer": "Bing",
+    "count": 6,
     "uniques": 1
   },
   {
@@ -31,8 +31,13 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 2,
-    "uniques": 2
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "away.vk.com",
+    "count": 3,
+    "uniques": 1
   },
   {
     "referrer": "pe4bas.blogspot.com",
