@@ -20,14 +20,14 @@
     "uniques": 8
   },
   {
-    "referrer": "groups.io",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "referrer": "Bing",
     "count": 6,
     "uniques": 1
+  },
+  {
+    "referrer": "groups.io",
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "github.com",
