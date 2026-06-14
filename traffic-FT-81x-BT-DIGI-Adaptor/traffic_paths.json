@@ -2,26 +2,26 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 34,
-    "uniques": 21
+    "count": 36,
+    "uniques": 24
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 19,
-    "uniques": 14
+    "count": 20,
+    "uniques": 13
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
     "title": "/blob/main/README.zh-CN.md",
-    "count": 14,
-    "uniques": 5
+    "count": 10,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
     "title": "/tree/main/Gerber",
-    "count": 9,
-    "uniques": 7
+    "count": 8,
+    "uniques": 6
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
@@ -32,31 +32,31 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
-    "title": "/blob/main/bom/ibom.html",
     "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
-    "title": "/tree/main/bom",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
-    "title": "/tree/main/library",
-    "count": 4,
-    "uniques": 4
+    "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "count": 4,
     "uniques": 2
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
+    "title": "/blob/main/bom/ibom.html",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
+    "title": "/tree/main/bom",
+    "count": 3,
+    "uniques": 3
   }
 ]
