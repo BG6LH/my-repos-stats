@@ -2,26 +2,14 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 30,
+    "count": 27,
     "uniques": 23
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
     "count": 21,
-    "uniques": 12
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
-    "title": "/blob/main/README.zh-CN.md",
-    "count": 9,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
-    "title": "/tree/main/Gerber",
-    "count": 8,
-    "uniques": 6
+    "uniques": 11
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
@@ -36,27 +24,39 @@
     "uniques": 4
   },
   {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/Gerber",
+    "title": "/tree/main/Gerber",
+    "count": 4,
+    "uniques": 4
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
+    "title": "/blob/main/README.zh-CN.md",
+    "count": 4,
+    "uniques": 2
+  },
+  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 4,
+    "count": 3,
     "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
     "title": "/blob/main/bom/ibom.html",
-    "count": 3,
-    "uniques": 3
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/bom",
-    "title": "/tree/main/bom",
-    "count": 3,
-    "uniques": 3
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main/library",
-    "title": "/tree/main/library",
-    "count": 3,
-    "uniques": 3
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
+    "count": 2,
+    "uniques": 2
   }
 ]
