@@ -1,28 +1,28 @@
 [
   {
-    "referrer": "qrper.com",
-    "count": 12,
-    "uniques": 1
-  },
-  {
     "referrer": "away.vk.com",
     "count": 10,
     "uniques": 1
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 9,
-    "uniques": 7
-  },
-  {
-    "referrer": "Google",
     "count": 8,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "github.com",
     "count": 4,
+    "uniques": 2
+  },
+  {
+    "referrer": "Google",
+    "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "groups.io",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "Bing",
@@ -30,7 +30,7 @@
     "uniques": 1
   },
   {
-    "referrer": "groups.io",
+    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   }
