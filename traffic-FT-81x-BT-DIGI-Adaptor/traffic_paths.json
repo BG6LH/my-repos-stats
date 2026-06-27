@@ -2,13 +2,13 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 20,
+    "count": 23,
     "uniques": 17
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 18,
+    "count": 17,
     "uniques": 6
   },
   {
@@ -44,6 +44,18 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commit/a9170a70d0de2304fb6eeff10388383c745aacd2",
     "title": "/commit/a9170a70d0de2304fb6eeff10388383c745aacd2",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/discussions",
+    "title": "/discussions",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/discussions/5",
+    "title": "/discussions/5",
     "count": 1,
     "uniques": 1
   }
