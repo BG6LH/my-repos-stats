@@ -25,14 +25,14 @@
     "uniques": 1
   },
   {
-    "referrer": "away.vk.com",
-    "count": 3,
-    "uniques": 1
-  },
-  {
     "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "referrer": "away.vk.com",
+    "count": 2,
+    "uniques": 1
   },
   {
     "referrer": "Bing",
@@ -45,7 +45,7 @@
     "uniques": 1
   },
   {
-    "referrer": "github.com",
+    "referrer": "qrp.ru",
     "count": 1,
     "uniques": 1
   }
