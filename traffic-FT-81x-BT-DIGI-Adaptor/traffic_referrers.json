@@ -6,7 +6,7 @@
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 7,
+    "count": 8,
     "uniques": 3
   },
   {
@@ -16,18 +16,13 @@
   },
   {
     "referrer": "groups.io",
-    "count": 5,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "qrz9.ru",
     "count": 4,
     "uniques": 1
-  },
-  {
-    "referrer": "qrper.com",
-    "count": 2,
-    "uniques": 2
   },
   {
     "referrer": "away.vk.com",
@@ -46,6 +41,11 @@
   },
   {
     "referrer": "qrp.ru",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   }
