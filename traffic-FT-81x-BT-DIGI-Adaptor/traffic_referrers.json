@@ -1,13 +1,13 @@
 [
   {
-    "referrer": "Google",
-    "count": 10,
+    "referrer": "radioscanner.ru",
+    "count": 9,
     "uniques": 3
   },
   {
-    "referrer": "radioscanner.ru",
-    "count": 8,
-    "uniques": 3
+    "referrer": "Google",
+    "count": 9,
+    "uniques": 2
   },
   {
     "referrer": "yandex.ru",
@@ -23,6 +23,11 @@
     "referrer": "qrz9.ru",
     "count": 4,
     "uniques": 1
+  },
+  {
+    "referrer": "qrper.com",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "away.vk.com",
@@ -41,11 +46,6 @@
   },
   {
     "referrer": "qrp.ru",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   }
