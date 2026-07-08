@@ -1,7 +1,7 @@
 [
   {
     "referrer": "radioscanner.ru",
-    "count": 9,
+    "count": 10,
     "uniques": 3
   },
   {
@@ -15,27 +15,22 @@
     "uniques": 3
   },
   {
-    "referrer": "groups.io",
-    "count": 4,
-    "uniques": 3
-  },
-  {
     "referrer": "qrz9.ru",
     "count": 4,
     "uniques": 1
   },
   {
     "referrer": "qrper.com",
+    "count": 3,
+    "uniques": 3
+  },
+  {
+    "referrer": "groups.io",
     "count": 2,
     "uniques": 2
   },
   {
     "referrer": "away.vk.com",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },

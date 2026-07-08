@@ -12,12 +12,6 @@
     "uniques": 6
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 2,
-    "uniques": 2
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pcb",
     "title": "/blob/main/FT817-BT-JDY67.kicad_pcb",
     "count": 2,
@@ -30,14 +24,14 @@
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.step",
-    "title": "/blob/main/FT817-BT-JDY67.step",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "count": 1,
     "uniques": 1
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
-    "title": "/blob/main/README.zh-CN.md",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.step",
+    "title": "/blob/main/FT817-BT-JDY67.step",
     "count": 1,
     "uniques": 1
   },
@@ -56,6 +50,12 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/discussions/5",
     "title": "/discussions/5",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/releases/tag/v1.0.0",
+    "title": "/releases/tag/v1.0.0",
     "count": 1,
     "uniques": 1
   }
