@@ -2,12 +2,12 @@
   {
     "referrer": "radioscanner.ru",
     "count": 12,
-    "uniques": 3
+    "uniques": 4
   },
   {
-    "referrer": "yandex.ru",
+    "referrer": "github.com",
     "count": 4,
-    "uniques": 2
+    "uniques": 1
   },
   {
     "referrer": "groups.io",
@@ -26,6 +26,11 @@
   },
   {
     "referrer": "qrp.ru",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }
