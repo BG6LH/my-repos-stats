@@ -2,7 +2,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 12,
-    "uniques": 4
+    "uniques": 3
   },
   {
     "referrer": "github.com",
@@ -23,15 +23,5 @@
     "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "qrp.ru",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "yandex.ru",
-    "count": 1,
-    "uniques": 1
   }
 ]
