@@ -1,20 +1,20 @@
 [
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
-    "title": "/tree/main",
-    "count": 12,
-    "uniques": 3
-  },
-  {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 10,
+    "count": 11,
     "uniques": 10
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
+    "title": "/tree/main",
+    "count": 11,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 10,
+    "count": 11,
     "uniques": 1
   },
   {
