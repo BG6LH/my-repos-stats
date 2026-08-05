@@ -1,16 +1,21 @@
 [
   {
     "referrer": "groups.io",
-    "count": 18,
-    "uniques": 8
+    "count": 16,
+    "uniques": 7
   },
   {
-    "referrer": "radioscanner.ru",
-    "count": 10,
-    "uniques": 3
+    "referrer": "Bing",
+    "count": 11,
+    "uniques": 2
   },
   {
     "referrer": "qrper.com",
+    "count": 9,
+    "uniques": 2
+  },
+  {
+    "referrer": "radioscanner.ru",
     "count": 9,
     "uniques": 2
   },
@@ -23,5 +28,10 @@
     "referrer": "Google",
     "count": 6,
     "uniques": 2
+  },
+  {
+    "referrer": "qrz9.ru",
+    "count": 2,
+    "uniques": 1
   }
 ]
