@@ -2,25 +2,25 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 23,
-    "uniques": 17
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 17,
-    "uniques": 1
+    "count": 28,
+    "uniques": 18
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 15,
+    "count": 16,
     "uniques": 7
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 14,
+    "uniques": 1
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "count": 8,
+    "count": 6,
     "uniques": 5
   },
   {
@@ -30,22 +30,16 @@
     "uniques": 4
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "count": 5,
     "uniques": 4
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/bom/ibom.html",
-    "title": "/blob/main/bom/ibom.html",
-    "count": 3,
-    "uniques": 2
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
+    "count": 5,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
@@ -58,5 +52,11 @@
     "title": "/commits/v1.0.0",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.zh-CN.md",
+    "title": "/blob/main/README.zh-CN.md",
+    "count": 1,
+    "uniques": 1
   }
 ]
