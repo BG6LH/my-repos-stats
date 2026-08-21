@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "path": "/BG6LH/dxcc-json/blob/main/txt/2022_Current_Deleted.txt",
+    "title": "/blob/main/txt/2022_Current_Deleted.txt",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/dxcc-json/tree/main",
+    "title": "/tree/main",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/dxcc-json/tree/main/txt",
+    "title": "/tree/main/txt",
+    "count": 1,
+    "uniques": 1
+  }
+]
