@@ -5,14 +5,14 @@
     "uniques": 4
   },
   {
+    "referrer": "Google",
+    "count": 12,
+    "uniques": 6
+  },
+  {
     "referrer": "radioscanner.ru",
     "count": 12,
     "uniques": 3
-  },
-  {
-    "referrer": "Google",
-    "count": 11,
-    "uniques": 5
   },
   {
     "referrer": "DuckDuckGo",
