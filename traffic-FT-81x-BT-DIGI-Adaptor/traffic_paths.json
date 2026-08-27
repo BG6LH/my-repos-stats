@@ -2,14 +2,14 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 35,
-    "uniques": 27
+    "count": 30,
+    "uniques": 24
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
     "count": 14,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
@@ -22,12 +22,6 @@
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
     "count": 5,
     "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
-    "title": "/blob/main/README.md",
-    "count": 5,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
@@ -48,14 +42,20 @@
     "uniques": 2
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/issues",
-    "title": "/issues",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
     "count": 2,
     "uniques": 1
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/.github/FUNDING.yml",
     "title": "/blob/main/.github/FUNDING.yml",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
+    "title": "/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
     "count": 1,
     "uniques": 1
   }
