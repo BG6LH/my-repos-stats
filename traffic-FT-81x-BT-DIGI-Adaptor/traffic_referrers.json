@@ -6,13 +6,13 @@
   },
   {
     "referrer": "radioscanner.ru",
-    "count": 12,
+    "count": 11,
     "uniques": 3
   },
   {
     "referrer": "Google",
-    "count": 6,
-    "uniques": 3
+    "count": 5,
+    "uniques": 2
   },
   {
     "referrer": "DuckDuckGo",
@@ -23,11 +23,6 @@
     "referrer": "github.com",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "Bing",
-    "count": 1,
-    "uniques": 1
   },
   {
     "referrer": "clyinstitute.blogspot.com",
