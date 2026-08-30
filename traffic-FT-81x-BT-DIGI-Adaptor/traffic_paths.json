@@ -2,26 +2,26 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 28,
-    "uniques": 22
+    "count": 29,
+    "uniques": 24
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
     "title": "/tree/main",
-    "count": 13,
+    "count": 12,
     "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-SCH.png",
-    "count": 9,
-    "uniques": 6
+    "count": 8,
+    "uniques": 5
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
-    "count": 5,
-    "uniques": 3
+    "count": 4,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pcb",
@@ -32,20 +32,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
-    "count": 3,
-    "uniques": 3
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
-    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/.github/FUNDING.yml",
-    "title": "/blob/main/.github/FUNDING.yml",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT-81x-BT-DIGI-Adaptor-SCH.pdf",
@@ -54,8 +42,20 @@
     "uniques": 1
   },
   {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/FT817-BT-JDY67.kicad_pro",
-    "title": "/blob/main/FT817-BT-JDY67.kicad_pro",
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
+    "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/commits/v1.0.0",
+    "title": "/commits/v1.0.0",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/releases/tag/v1.0.0",
+    "title": "/releases/tag/v1.0.0",
     "count": 1,
     "uniques": 1
   }
