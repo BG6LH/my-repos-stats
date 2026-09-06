@@ -6,17 +6,22 @@
   },
   {
     "referrer": "qrper.com",
-    "count": 25,
-    "uniques": 8
-  },
-  {
-    "referrer": "Google",
-    "count": 9,
-    "uniques": 5
+    "count": 17,
+    "uniques": 7
   },
   {
     "referrer": "radioscanner.ru",
     "count": 9,
+    "uniques": 3
+  },
+  {
+    "referrer": "Google",
+    "count": 7,
+    "uniques": 5
+  },
+  {
+    "referrer": "groups.io",
+    "count": 6,
     "uniques": 3
   },
   {
@@ -27,11 +32,6 @@
   {
     "referrer": "yandex.ru",
     "count": 4,
-    "uniques": 2
-  },
-  {
-    "referrer": "groups.io",
-    "count": 3,
     "uniques": 2
   },
   {
