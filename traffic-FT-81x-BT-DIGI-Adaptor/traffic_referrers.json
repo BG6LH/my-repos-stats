@@ -1,17 +1,17 @@
 [
   {
     "referrer": "github.com",
-    "count": 38,
-    "uniques": 4
+    "count": 37,
+    "uniques": 3
+  },
+  {
+    "referrer": "Google",
+    "count": 16,
+    "uniques": 9
   },
   {
     "referrer": "qrper.com",
     "count": 16,
-    "uniques": 8
-  },
-  {
-    "referrer": "Google",
-    "count": 15,
     "uniques": 8
   },
   {
@@ -22,7 +22,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 9,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "m.facebook.com",
@@ -31,8 +31,8 @@
   },
   {
     "referrer": "yandex.ru",
-    "count": 3,
-    "uniques": 1
+    "count": 4,
+    "uniques": 2
   },
   {
     "referrer": "ardop.groups.io",
