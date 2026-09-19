@@ -15,11 +15,6 @@
     "uniques": 4
   },
   {
-    "referrer": "yandex.ru",
-    "count": 6,
-    "uniques": 3
-  },
-  {
     "referrer": "ya.ru",
     "count": 5,
     "uniques": 1
@@ -28,6 +23,11 @@
     "referrer": "qrper.com",
     "count": 3,
     "uniques": 3
+  },
+  {
+    "referrer": "yandex.ru",
+    "count": 3,
+    "uniques": 2
   },
   {
     "referrer": "github.com",
