@@ -2,22 +2,17 @@
   {
     "referrer": "radioscanner.ru",
     "count": 18,
-    "uniques": 7
+    "uniques": 6
+  },
+  {
+    "referrer": "Google",
+    "count": 6,
+    "uniques": 4
   },
   {
     "referrer": "ya.ru",
     "count": 5,
     "uniques": 1
-  },
-  {
-    "referrer": "Google",
-    "count": 4,
-    "uniques": 4
-  },
-  {
-    "referrer": "groups.io",
-    "count": 4,
-    "uniques": 3
   },
   {
     "referrer": "yandex.ru",
@@ -30,13 +25,23 @@
     "uniques": 1
   },
   {
-    "referrer": "qrper.com",
+    "referrer": "qrz.com",
     "count": 2,
     "uniques": 2
   },
   {
-    "referrer": "qrz.com",
+    "referrer": "search.brave.com",
     "count": 2,
-    "uniques": 2
+    "uniques": 1
+  },
+  {
+    "referrer": "groups.io",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "qrper.com",
+    "count": 1,
+    "uniques": 1
   }
 ]
