@@ -1,13 +1,13 @@
 [
   {
     "referrer": "radioscanner.ru",
-    "count": 18,
+    "count": 17,
     "uniques": 6
   },
   {
     "referrer": "Google",
-    "count": 6,
-    "uniques": 4
+    "count": 5,
+    "uniques": 3
   },
   {
     "referrer": "ya.ru",
@@ -32,6 +32,11 @@
   {
     "referrer": "search.brave.com",
     "count": 2,
+    "uniques": 1
+  },
+  {
+    "referrer": "forum.index.hu",
+    "count": 1,
     "uniques": 1
   },
   {
