@@ -2,7 +2,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 17,
-    "uniques": 6
+    "uniques": 5
   },
   {
     "referrer": "Google",
@@ -16,18 +16,13 @@
   },
   {
     "referrer": "yandex.ru",
-    "count": 4,
+    "count": 3,
     "uniques": 3
   },
   {
     "referrer": "github.com",
     "count": 3,
     "uniques": 1
-  },
-  {
-    "referrer": "qrz.com",
-    "count": 2,
-    "uniques": 2
   },
   {
     "referrer": "search.brave.com",
@@ -46,6 +41,11 @@
   },
   {
     "referrer": "qrper.com",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "qrz.com",
     "count": 1,
     "uniques": 1
   }

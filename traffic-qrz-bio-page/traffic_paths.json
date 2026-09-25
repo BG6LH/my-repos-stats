@@ -2,12 +2,24 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
+    "count": 6,
+    "uniques": 5
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/.github/FUNDING.yml",
+    "title": "/blob/main/.github/FUNDING.yml",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/README.md",
     "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
+    "title": "/blob/main/bio.simulator.html",
     "count": 1,
     "uniques": 1
   },
@@ -20,6 +32,12 @@
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/prompt-reference/README.md",
     "title": "/blob/main/prompt-reference/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/tree/main/.github",
+    "title": "/tree/main/.github",
     "count": 1,
     "uniques": 1
   }
