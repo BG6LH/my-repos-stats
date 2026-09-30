@@ -1,28 +1,28 @@
 [
   {
     "referrer": "radioscanner.ru",
-    "count": 17,
-    "uniques": 5
+    "count": 11,
+    "uniques": 3
   },
   {
     "referrer": "Google",
-    "count": 5,
-    "uniques": 3
-  },
-  {
-    "referrer": "ya.ru",
-    "count": 5,
-    "uniques": 1
-  },
-  {
-    "referrer": "yandex.ru",
-    "count": 3,
-    "uniques": 3
+    "count": 7,
+    "uniques": 4
   },
   {
     "referrer": "github.com",
     "count": 3,
-    "uniques": 1
+    "uniques": 2
+  },
+  {
+    "referrer": "org.joinmastodon.android",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "yandex.ru",
+    "count": 2,
+    "uniques": 2
   },
   {
     "referrer": "search.brave.com",
@@ -40,12 +40,12 @@
     "uniques": 1
   },
   {
-    "referrer": "qrper.com",
+    "referrer": "mastodon.social",
     "count": 1,
     "uniques": 1
   },
   {
-    "referrer": "qrz.com",
+    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   }
