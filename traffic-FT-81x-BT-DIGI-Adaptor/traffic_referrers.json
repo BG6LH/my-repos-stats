@@ -6,8 +6,8 @@
   },
   {
     "referrer": "Google",
-    "count": 7,
-    "uniques": 4
+    "count": 4,
+    "uniques": 3
   },
   {
     "referrer": "github.com",
@@ -16,6 +16,11 @@
   },
   {
     "referrer": "org.joinmastodon.android",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
   },
@@ -41,11 +46,6 @@
   },
   {
     "referrer": "mastodon.social",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "qrper.com",
     "count": 1,
     "uniques": 1
   }
