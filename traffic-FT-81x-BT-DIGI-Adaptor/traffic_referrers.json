@@ -2,7 +2,7 @@
   {
     "referrer": "radioscanner.ru",
     "count": 11,
-    "uniques": 3
+    "uniques": 4
   },
   {
     "referrer": "Google",
@@ -28,11 +28,6 @@
     "referrer": "yandex.ru",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "referrer": "search.brave.com",
-    "count": 2,
-    "uniques": 1
   },
   {
     "referrer": "forum.index.hu",
