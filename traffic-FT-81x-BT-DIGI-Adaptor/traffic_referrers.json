@@ -1,8 +1,8 @@
 [
   {
     "referrer": "radioscanner.ru",
-    "count": 11,
-    "uniques": 4
+    "count": 12,
+    "uniques": 5
   },
   {
     "referrer": "Google",
@@ -25,12 +25,7 @@
     "uniques": 2
   },
   {
-    "referrer": "yandex.ru",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "forum.index.hu",
+    "referrer": "bg6lh.com",
     "count": 1,
     "uniques": 1
   },
@@ -41,6 +36,11 @@
   },
   {
     "referrer": "mastodon.social",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "yandex.ru",
     "count": 1,
     "uniques": 1
   }
