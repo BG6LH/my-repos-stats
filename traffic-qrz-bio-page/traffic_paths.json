@@ -2,24 +2,12 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 3,
+    "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/.github/FUNDING.yml",
-    "title": "/blob/main/.github/FUNDING.yml",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
     "title": "/blob/main/bio.simulator.html",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/tree/main/.github",
-    "title": "/tree/main/.github",
     "count": 1,
     "uniques": 1
   }
