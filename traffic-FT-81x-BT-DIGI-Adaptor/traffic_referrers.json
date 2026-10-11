@@ -1,21 +1,16 @@
 [
   {
     "referrer": "radioscanner.ru",
-    "count": 11,
+    "count": 10,
     "uniques": 4
   },
   {
     "referrer": "Google",
     "count": 6,
-    "uniques": 4
+    "uniques": 5
   },
   {
     "referrer": "groups.io",
-    "count": 2,
-    "uniques": 2
-  },
-  {
-    "referrer": "org.joinmastodon.android",
     "count": 2,
     "uniques": 2
   },
@@ -31,16 +26,6 @@
   },
   {
     "referrer": "ecosia.org",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "github.com",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "mastodon.social",
     "count": 1,
     "uniques": 1
   },
