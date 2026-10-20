@@ -7,15 +7,15 @@
   {
     "referrer": "radioscanner.ru",
     "count": 9,
-    "uniques": 6
-  },
-  {
-    "referrer": "qrper.com",
-    "count": 3,
-    "uniques": 3
+    "uniques": 5
   },
   {
     "referrer": "DuckDuckGo",
+    "count": 2,
+    "uniques": 2
+  },
+  {
+    "referrer": "qrper.com",
     "count": 2,
     "uniques": 2
   },
