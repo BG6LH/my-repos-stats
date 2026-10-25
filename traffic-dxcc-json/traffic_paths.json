@@ -1,15 +1,15 @@
 [
   {
+    "path": "/BG6LH/dxcc-json",
+    "title": "Overview",
+    "count": 3,
+    "uniques": 2
+  },
+  {
     "path": "/BG6LH/dxcc-json/blob/main/README.md",
     "title": "/blob/main/README.md",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/BG6LH/dxcc-json",
-    "title": "Overview",
-    "count": 2,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/dxcc-json/blob/main/Prefix Cross References.md",
