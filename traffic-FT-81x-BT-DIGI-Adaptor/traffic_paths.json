@@ -2,8 +2,8 @@
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor",
     "title": "Overview",
-    "count": 21,
-    "uniques": 17
+    "count": 20,
+    "uniques": 16
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/tree/main",
@@ -22,6 +22,12 @@
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-3D.png",
     "count": 5,
     "uniques": 2
+  },
+  {
+    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 4,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PCB.png",
@@ -52,11 +58,5 @@
     "title": "/blob/main/pics/FT-81x-BT-DIGI-Adaptor-PIC.png",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/BG6LH/FT-81x-BT-DIGI-Adaptor/blob/main/Gerber/FT817-BT-JDY67-B_Cu.gbr",
-    "title": "/blob/main/Gerber/FT817-BT-JDY67-B_Cu.gbr",
-    "count": 2,
-    "uniques": 1
   }
 ]
