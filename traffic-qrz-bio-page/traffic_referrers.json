@@ -1,16 +1,16 @@
 [
   {
+    "referrer": "aocr.org",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "referrer": "DuckDuckGo",
     "count": 1,
     "uniques": 1
   },
   {
     "referrer": "Google",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "referrer": "aocr.org",
     "count": 1,
     "uniques": 1
   }
