@@ -2,18 +2,12 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 8,
-    "uniques": 7
+    "count": 7,
+    "uniques": 6
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
     "title": "/blob/main/bio.simulator.html",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/tree/main/prompt-reference",
-    "title": "/tree/main/prompt-reference",
     "count": 1,
     "uniques": 1
   }
