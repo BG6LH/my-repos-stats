@@ -2,12 +2,24 @@
   {
     "path": "/BG6LH/dxcc-json",
     "title": "Overview",
-    "count": 3,
-    "uniques": 2
+    "count": 5,
+    "uniques": 3
   },
   {
-    "path": "/BG6LH/dxcc-json/blob/main/Prefix Cross References.md",
-    "title": "/blob/main/Prefix Cross References.md",
+    "path": "/BG6LH/dxcc-json/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/dxcc-json/tree/main",
+    "title": "/tree/main",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/dxcc-json/tree/main/txt",
+    "title": "/tree/main/txt",
     "count": 1,
     "uniques": 1
   }

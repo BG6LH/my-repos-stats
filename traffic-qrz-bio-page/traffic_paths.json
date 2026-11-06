@@ -6,8 +6,26 @@
     "uniques": 6
   },
   {
+    "path": "/BG6LH/qrz-bio-page/commits",
+    "title": "/commits",
+    "count": 2,
+    "uniques": 2
+  },
+  {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
     "title": "/blob/main/bio.simulator.html",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/commit/64ec8db1baf0224dc55b098d1add19909cc476d2",
+    "title": "/commit/64ec8db1baf0224dc55b098d1add19909cc476d2",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/commit/7df95e2ce60ef2b8749fb419238d20dd718e8b6d",
+    "title": "/commit/7df95e2ce60ef2b8749fb419238d20dd718e8b6d",
     "count": 1,
     "uniques": 1
   }
