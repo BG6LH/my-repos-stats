@@ -2,20 +2,14 @@
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 7,
-    "uniques": 6
+    "count": 6,
+    "uniques": 5
   },
   {
     "path": "/BG6LH/qrz-bio-page/commits",
     "title": "/commits",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
-    "title": "/blob/main/bio.simulator.html",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/BG6LH/qrz-bio-page/commit/64ec8db1baf0224dc55b098d1add19909cc476d2",
