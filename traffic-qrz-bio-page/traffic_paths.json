@@ -1,15 +1,51 @@
 [
   {
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
+    "title": "/blob/main/bio.simulator.html",
+    "count": 10,
+    "uniques": 2
+  },
+  {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
     "count": 6,
-    "uniques": 5
+    "uniques": 6
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.css",
+    "title": "/blob/main/bio.snippet.css",
+    "count": 3,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.html",
+    "title": "/blob/main/bio.snippet.html",
+    "count": 3,
+    "uniques": 1
   },
   {
     "path": "/BG6LH/qrz-bio-page/commits",
     "title": "/commits",
     "count": 2,
     "uniques": 2
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blame/main/bio.simulator.html",
+    "title": "/blame/main/bio.simulator.html",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.inject.js",
+    "title": "/blob/main/bio.snippet.inject.js",
+    "count": 2,
+    "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/LICENSE",
+    "title": "/blob/main/LICENSE",
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/README.md",
@@ -20,12 +56,6 @@
   {
     "path": "/BG6LH/qrz-bio-page/commit/64ec8db1baf0224dc55b098d1add19909cc476d2",
     "title": "/commit/64ec8db1baf0224dc55b098d1add19909cc476d2",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/commit/7df95e2ce60ef2b8749fb419238d20dd718e8b6d",
-    "title": "/commit/7df95e2ce60ef2b8749fb419238d20dd718e8b6d",
     "count": 1,
     "uniques": 1
   }
