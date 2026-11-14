@@ -2,14 +2,14 @@
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
     "title": "/blob/main/bio.simulator.html",
-    "count": 10,
+    "count": 11,
     "uniques": 2
   },
   {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 6,
-    "uniques": 6
+    "count": 4,
+    "uniques": 4
   },
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.css",
@@ -22,6 +22,12 @@
     "title": "/blob/main/bio.snippet.html",
     "count": 3,
     "uniques": 1
+  },
+  {
+    "path": "/BG6LH/qrz-bio-page/blob/main/README.md",
+    "title": "/blob/main/README.md",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/qrz-bio-page/commits",
@@ -44,12 +50,6 @@
   {
     "path": "/BG6LH/qrz-bio-page/blob/main/LICENSE",
     "title": "/blob/main/LICENSE",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/README.md",
-    "title": "/blob/main/README.md",
     "count": 1,
     "uniques": 1
   },
