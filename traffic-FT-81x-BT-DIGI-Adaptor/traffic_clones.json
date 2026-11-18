@@ -1913,14 +1913,14 @@
       "uniques": 1
     },
     {
-      "timestamp": "2026-11-03T00:00:00Z",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "timestamp": "2026-11-04T00:00:00Z",
       "count": 5,
       "uniques": 2
+    },
+    {
+      "timestamp": "2026-11-03T00:00:00Z",
+      "count": 2,
+      "uniques": 1
     },
     {
       "timestamp": "2026-11-05T00:00:00Z",
