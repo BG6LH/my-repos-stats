@@ -2,30 +2,18 @@
   {
     "path": "/BG6LH/dxcc-json",
     "title": "Overview",
-    "count": 5,
-    "uniques": 4
+    "count": 3,
+    "uniques": 3
   },
   {
     "path": "/BG6LH/dxcc-json/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 2,
-    "uniques": 2
+    "count": 1,
+    "uniques": 1
   },
   {
     "path": "/BG6LH/dxcc-json/blob/main/README.zh-CN.md",
     "title": "/blob/main/README.zh-CN.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/dxcc-json/tree/main",
-    "title": "/tree/main",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/dxcc-json/tree/main/txt",
-    "title": "/tree/main/txt",
     "count": 1,
     "uniques": 1
   }
