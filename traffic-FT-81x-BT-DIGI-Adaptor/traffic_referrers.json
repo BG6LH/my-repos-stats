@@ -2,11 +2,11 @@
   {
     "referrer": "radioscanner.ru",
     "count": 11,
-    "uniques": 2
+    "uniques": 3
   },
   {
     "referrer": "Google",
-    "count": 9,
+    "count": 8,
     "uniques": 8
   },
   {
@@ -20,12 +20,12 @@
     "uniques": 2
   },
   {
-    "referrer": "Bing",
-    "count": 1,
+    "referrer": "qrp.ru",
+    "count": 2,
     "uniques": 1
   },
   {
-    "referrer": "away.vk.ru",
+    "referrer": "Bing",
     "count": 1,
     "uniques": 1
   },
@@ -36,6 +36,11 @@
   },
   {
     "referrer": "groups.io",
+    "count": 1,
+    "uniques": 1
+  },
+  {
+    "referrer": "sp7pki.iq24.pl",
     "count": 1,
     "uniques": 1
   }
