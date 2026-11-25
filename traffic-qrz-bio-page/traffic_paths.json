@@ -1,27 +1,15 @@
 [
   {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
-    "title": "/blob/main/bio.simulator.html",
-    "count": 12,
-    "uniques": 3
-  },
-  {
     "path": "/BG6LH/qrz-bio-page",
     "title": "Overview",
-    "count": 4,
-    "uniques": 4
+    "count": 2,
+    "uniques": 2
   },
   {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.css",
-    "title": "/blob/main/bio.snippet.css",
-    "count": 3,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.html",
-    "title": "/blob/main/bio.snippet.html",
-    "count": 3,
-    "uniques": 1
+    "path": "/BG6LH/qrz-bio-page/blob/main/bio.simulator.html",
+    "title": "/blob/main/bio.simulator.html",
+    "count": 2,
+    "uniques": 2
   },
   {
     "path": "/BG6LH/qrz-bio-page/tree/main/prompt-reference",
@@ -30,32 +18,8 @@
     "uniques": 2
   },
   {
-    "path": "/BG6LH/qrz-bio-page/blame/main/bio.simulator.html",
-    "title": "/blame/main/bio.simulator.html",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/bio.snippet.inject.js",
-    "title": "/blob/main/bio.snippet.inject.js",
-    "count": 2,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/blob/main/LICENSE",
-    "title": "/blob/main/LICENSE",
-    "count": 1,
-    "uniques": 1
-  },
-  {
     "path": "/BG6LH/qrz-bio-page/blob/main/README.md",
     "title": "/blob/main/README.md",
-    "count": 1,
-    "uniques": 1
-  },
-  {
-    "path": "/BG6LH/qrz-bio-page/edit/main/bio.simulator.html",
-    "title": "/edit/main/bio.simulator.html",
     "count": 1,
     "uniques": 1
   }
